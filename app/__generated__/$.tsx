@@ -10,7 +10,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-04-16T01:28:08.208Z";
+      export const lastPublished = "2026-04-16T18:29:59.100Z";
 
       export const siteName = "dextros.net";
 

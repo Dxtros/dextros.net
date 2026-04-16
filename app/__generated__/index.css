@@ -71,6 +71,12 @@
   p.w-paragraph {
     box-sizing: border-box
   }
+  img.w-image {
+    box-sizing: border-box;
+    max-width: 100%;
+    display: block;
+    height: auto
+  }
 }
 @media all {
   .c1pmamtn {

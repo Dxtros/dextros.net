@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "3222de27-30b7-4eae-8a98-55834cbf1a38",
+    "id": "511f1982-e0e8-484e-965e-957acf4f7f5e",
     "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
-    "version": 39,
-    "createdAt": "2026-04-16T01:28:08.208+00:00",
-    "updatedAt": "2026-04-16T01:28:08.208+00:00",
+    "version": 71,
+    "createdAt": "2026-04-16T18:29:59.1+00:00",
+    "updatedAt": "2026-04-16T18:29:59.1+00:00",
     "pages": {
       "meta": {
         "siteName": "dextros.net"
@@ -9761,6 +9761,46 @@
           "type": "boolean",
           "value": true
         }
+      ],
+      [
+        "yoxy6_8eiuIPLf06aVxIU",
+        {
+          "id": "yoxy6_8eiuIPLf06aVxIU",
+          "instanceId": "Ka1u1h3RBGGFl0FwG1zEM",
+          "name": "src",
+          "type": "asset",
+          "value": "2ac2613d81d68605da0a403850f27b6178d2e496fe7241ae918aeac675364187"
+        }
+      ],
+      [
+        "MvKEEkDI_RFED8bCXKdGR",
+        {
+          "id": "MvKEEkDI_RFED8bCXKdGR",
+          "instanceId": "Ka1u1h3RBGGFl0FwG1zEM",
+          "name": "width",
+          "type": "asset",
+          "value": "2ac2613d81d68605da0a403850f27b6178d2e496fe7241ae918aeac675364187"
+        }
+      ],
+      [
+        "nGZj16FX7oZ6WK4vmmLsG",
+        {
+          "id": "nGZj16FX7oZ6WK4vmmLsG",
+          "instanceId": "Ka1u1h3RBGGFl0FwG1zEM",
+          "name": "height",
+          "type": "asset",
+          "value": "2ac2613d81d68605da0a403850f27b6178d2e496fe7241ae918aeac675364187"
+        }
+      ],
+      [
+        "AVqV9YbBHKwMu4t5V4Lpi",
+        {
+          "id": "AVqV9YbBHKwMu4t5V4Lpi",
+          "instanceId": "Ka1u1h3RBGGFl0FwG1zEM",
+          "name": "alt",
+          "type": "asset",
+          "value": "2ac2613d81d68605da0a403850f27b6178d2e496fe7241ae918aeac675364187"
+        }
       ]
     ],
     "dataSources": [],
@@ -9781,6 +9821,10 @@
             {
               "type": "id",
               "value": "dlYuDOzUyapn1XzBLP9B-"
+            },
+            {
+              "type": "id",
+              "value": "Ka1u1h3RBGGFl0FwG1zEM"
             }
           ]
         }
@@ -10973,9 +11017,18 @@
           "children": [
             {
               "type": "text",
-              "value": "Testing WEBSITE FLOW"
+              "value": "Testing WEBSITE FLOW WITH IMAGE"
             }
           ]
+        }
+      ],
+      [
+        "Ka1u1h3RBGGFl0FwG1zEM",
+        {
+          "type": "instance",
+          "id": "Ka1u1h3RBGGFl0FwG1zEM",
+          "component": "Image",
+          "children": []
         }
       ]
     ],
