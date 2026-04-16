@@ -11,7 +11,7 @@ import { Button as Button, Text as Text, Box as Box, HtmlEmbed as HtmlEmbed, Par
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-04-16T18:29:59.100Z";
+      export const lastPublished = "2026-04-16T18:34:16.909Z";
 
       export const siteName = "dextros.net";
 
@@ -42,13 +42,13 @@ className={`w-element`}>
 className={`w-element c1pmamtn colidgn cdepr1w`}>
 <h1
 className={`w-element`}>
-{"Testing WEBSITE FLOW WITH IMAGE"}
+{"Testing WEBSITE FLOW WITH different IMAGE"}
 </h1>
 </div>
 <Image
-src={"/assets/i_cK8cZ4fxHhPYdEEZy07bv.webp"}
-width={480}
-height={308}
+src={"/assets/funny-dumbo-rat-peeks-out-behind-hand-veterinarian-blue-uniform-rat-has-cute-funny-expression-259550503.jpg_D0H62OO6dTCZ1fu_uEYr_.webp"}
+width={1600}
+height={934}
 alt={""}
 className={`w-image`} />
 </Body>
