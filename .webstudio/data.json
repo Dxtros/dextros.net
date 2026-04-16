@@ -11017,7 +11017,34 @@
       "path": "/*"
     }
   ],
-  "assets": [],
+  "assets": [
+    {
+      "id": "2ac2613d81d68605da0a403850f27b6178d2e496fe7241ae918aeac675364187",
+      "name": "i_cK8cZ4fxHhPYdEEZy07bv.webp",
+      "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
+      "size": 10488,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2026-04-16T04:16:40.706+00:00",
+      "meta": {
+        "width": 480,
+        "height": 308
+      }
+    },
+    {
+      "id": "9478aa2f02c907a2549eced9c9fe13f9dc3858d568330793e10bd05d448c16c7",
+      "name": "funny-dumbo-rat-peeks-out-behind-hand-veterinarian-blue-uniform-rat-has-cute-funny-expression-259550503.jpg_D0H62OO6dTCZ1fu_uEYr_.webp",
+      "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
+      "size": 200252,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2026-04-16T04:09:39.941+00:00",
+      "meta": {
+        "width": 1600,
+        "height": 934
+      }
+    }
+  ],
   "user": {
     "email": "git@dextros.net"
   },
