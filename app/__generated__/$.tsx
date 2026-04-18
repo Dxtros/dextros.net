@@ -10,14 +10,14 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-04-16T18:34:16.909Z";
+      export const lastPublished = "2026-04-18T00:44:40.602Z";
 
       export const siteName = "dextros.net";
 
       export const breakpoints = [{"id":"p8eOIktc7fhlZ0xcFxuYL"},{"id":"gLCzUI5P79jD1WN4LFS5F","maxWidth":991},{"id":"btFHh22tjla-HCaKSSn8k","maxWidth":767},{"id":"Vmpp1WIlOdATwrho_J4oG","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        undefined;
+        "6804af8fb8181b857faedbc7_app_icon_256x256_XmjhU4P0qz7MLY4MnRx8z.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =

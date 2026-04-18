@@ -21,9 +21,9 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Home",
-    description: undefined,
-    excludePageFromSearch: undefined,
+    title: "Dexter Delaski–Graphic Designer",
+    description: "I'm Dexter, a Graphic Designer working on my BFA at Portland State University. Currently most of my energy goes towards web design, branding, and game design. ",
+    excludePageFromSearch: false,
     language: undefined,
     socialImageAssetName: undefined,
     socialImageUrl: undefined,
