@@ -5,12 +5,12 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Paragraph as Paragraph, Box as Box, Heading as Heading, Text as Text } from "@webstudio-is/sdk-components-react";
+import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-04-18T00:44:40.602Z";
+      export const lastPublished = "2026-04-24T22:26:54.271Z";
 
       export const siteName = "dextros.net";
 
@@ -41,9 +41,9 @@ className={`w-element c16o42s9 cmuvxqv`}>
 data-ws-tag="div"
 className={`w-box`}>
 <Box
-className={`w-box c1gd5515 c107mqr1 c14xpwmx cwdmasm ciefe8a c1vilc11 c60vy8 c11ka3c c2z4q9g c1ssvogt ck3a6vq c1trv315 cw5xqyu c1pmamtn c6corq cyin3no cdepr1w cez508d cbn9fyj c17lbged c1yd9297 cpb83sz ce1yi6i c10yblei csnfwyd c1mjcjrb cn6nxvt c8usc85 c1722awv c1gj3fnc clyipar caiz32p c15v7qqd c1tqbmju cz59kkh c101uvd8 cylzj05 cddmyif cwmtqn1 c1eukmtm c16c8uil cbgu6dt c185804k`}>
+className={`w-box c1gd5515 c107mqr1 c14xpwmx cwdmasm ciefe8a c1vilc11 c60vy8 c11ka3c c2z4q9g c1ssvogt ck3a6vq c1trv315 cw5xqyu c1pmamtn c6corq cyin3no cdepr1w cez508d cbn9fyj c17lbged c1yd9297 cpb83sz ce1yi6i c10yblei csnfwyd c1mjcjrb cn6nxvt c8usc85 c1722awv c1gj3fnc clyipar caiz32p c15v7qqd c1tqbmju cz59kkh c101uvd8 c7n1gk6 c42zyce cwmtqn1 c1eukmtm c16c8uil cbgu6dt c185804k`}>
 <Paragraph
-className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c14hoolr c1jo75us c6vtb6j cc3nov9 c1lg835j c8ii1ro c1andk5f c1kcosf1 c1uuy6wp`}>
+className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c14hoolr c1jo75us c6vtb6j cc3nov9 c1lg835j c1uuy6wp c8ii1ro c1andk5f c1kcosf1`}>
 {"Dexter Delaski"}
 {""}
 <br />
@@ -75,17 +75,17 @@ className={`w-box c9i2am4 ch0bly2 c1f0iqtt`} />
 </Box>
 <Box
 data-ws-tag="div"
-className={`w-box c1pmamtn c18znrhs cdmgm0m c7bwsg2 ca7bs4t c1nb70ul c771430 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1h79hp4 c16p169y cyc9d48 c1w3euwl c6corq crsit91 c1udkgxc c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl`}>
+className={`w-box c1pmamtn c18znrhs cdmgm0m c7bwsg2 ca7bs4t c1nb70ul c771430 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1h79hp4 c16p169y cyc9d48 c1w3euwl c6corq crsit91 c1udkgxc c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl c2zjgwx`}>
 <Box
 data-ws-tag="div"
-className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl`}>
+className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 c1jmjbut c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl cziclp0 c1kcosf1 c39rlbe`}>
 <Heading
 data-ws-tag="h1"
-className={`w-heading cpphq8o c18fwely c1l5j34b cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl cjd8yhk c1x8c3g4`}>
+className={`w-heading cpphq8o c18fwely c1l5j34b cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
 {"Hello, "}
 </Heading>
 <Paragraph
-className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c8ii1ro c1andk5f c1kcosf1 c1uuy6wp`}>
+className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c19wl1mz c8ii1ro c1andk5f c1kcosf1 c1ul7zfv`}>
 {"I'm Dexter, a Graphic Designer working on my BFA at Portland State University. Currently most of my energy goes towards web design, branding, and game design. "}
 {""}
 <br />
@@ -94,14 +94,14 @@ className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzk
 </Box>
 <Box
 data-ws-tag="div"
-className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1u94n63 c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl`}>
+className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1u94n63 c474mws c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl cziclp0 c1kcosf1 c150mdvp`}>
 <Heading
 data-ws-tag="h1"
-className={`w-heading cpphq8o c18fwely c1l5j34b cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl cjd8yhk c1x8c3g4`}>
+className={`w-heading cpphq8o c18fwely c1l5j34b cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
 {"Reach out!"}
 </Heading>
 <Paragraph
-className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c8ii1ro c1andk5f c1kcosf1 c1uuy6wp`}>
+className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c19wl1mz c8ii1ro c1andk5f c1kcosf1 c1ul7zfv`}>
 {"The best part of graphic design for me is people. I enjoy working with both designers and non-designers. Send me an email with a smiley face, or your latest project. I'm always eager to chat."}
 {""}
 <br />
@@ -110,7 +110,7 @@ className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzk
 </Box>
 <Box
 data-ws-tag="div"
-className={`w-box c1pmamtn c1w3euwl c132re45 ct4sujx cjwfj78 c1sqm0uy c1xlne93 c1xwhhxx cbjaddb cshyuxo c1fpzyr8 c1054tb3 cnk4s3i c1r1gkmc cjq3i40 cs1dfu3 cz95xv0 chew6l2 c1tyd1nd c2tg5kv cb3zv8h`}>
+className={`w-box c1pmamtn c1w3euwl c132re45 ct4sujx cjwfj78 c1sqm0uy c1xlne93 c1xwhhxx cbjaddb cshyuxo c1fpzyr8 c1054tb3 cnk4s3i c1r1gkmc cjq3i40 cs1dfu3 cz95xv0 chew6l2 c1tyd1nd cziclp0 c1kcosf1 czte5aw cxrwizz c2tg5kv cb3zv8h`}>
 <Link
 href={"https://nasus1.stegosaurus-cloud.ts.net/DexterDelaski_Portfolio.pdf"}
 prefetch={"render"}
