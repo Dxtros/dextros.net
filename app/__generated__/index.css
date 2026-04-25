@@ -1,11 +1,41 @@
 @font-face {
+  font-family: "PP Mori"; font-style: italic; font-weight: 200; font-display: swap; src: url("/assets/PPMori-ExtralightItalic_062GeRs9nV3dH0l7aB2KO.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: italic; font-weight: 400; font-display: swap; src: url("/assets/PPMori-RegularItalic_k4J1dM1WRb6DB2q_bhtVr.woff2") format("woff2");
+}
+@font-face {
   font-family: "PP Neue Montreal"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/PPNeueMontreal-Regular_lrLIR3ee1RHd1xFeFTxCY.ttf") format("truetype");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: normal; font-weight: 700; font-display: swap; src: url("/assets/PPMori-ExtraBold_QnUcWayo81H6ybMd0IVrQ.woff2") format("woff2");
 }
 @font-face {
   font-family: "PP Gosha Sans"; font-style: normal; font-weight: 700; font-display: swap; src: url("/assets/PPGoshaSans-Bold_0pdloCUdqC8fsgES0Xx6c.ttf") format("truetype");
 }
 @font-face {
+  font-family: "PP Mori"; font-style: normal; font-weight: 200; font-display: swap; src: url("/assets/PPMori-Extralight_nONdvu0Hehny2F1FzFwxk.woff2") format("woff2");
+}
+@font-face {
   font-family: "NaN Metrify A TRIAL Standard"; font-style: normal; font-weight: 900; font-display: swap; src: url("/assets/NaNMetrifyA-TRIALStd-Blck_3SXpOdPdCwIKPTB8W2r4w.ttf") format("truetype");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: italic; font-weight: 600; font-display: swap; src: url("/assets/PPMori-SemiBoldItalic_6RNT3eS8IrW1MPGM-OH0q.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: italic; font-weight: 700; font-display: swap; src: url("/assets/PPMori-ExtraBoldItalic_wBH3DMs9YpZljfLMBAftV.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: italic; font-weight: 900; font-display: swap; src: url("/assets/PPMori-BookItalic_f33T_sxTpNg3F9RdFWwBT.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: normal; font-weight: 900; font-display: swap; src: url("/assets/PPMori-Book_WNrGXD10SX2qVbdkilwH8.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/PPMori-Regular_4_Y7NBbsKkzaZIA8NkX8-.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PP Mori"; font-style: normal; font-weight: 600; font-display: swap; src: url("/assets/PPMori-SemiBold_Affknn9U4ibE7TpakXB-U.woff2") format("woff2");
 }@layer presets {
   :root {
     display: grid;
@@ -33,7 +63,16 @@
   h1.w-element {
     box-sizing: border-box
   }
+  h2.w-element {
+    box-sizing: border-box
+  }
+  header.w-element {
+    box-sizing: border-box
+  }
   p.w-element {
+    box-sizing: border-box
+  }
+  span.w-element {
     box-sizing: border-box
   }
   div.w-box {
@@ -236,8 +275,7 @@
     flex-shrink: 0
   }
   :root {
-    background-image: none;
-    background-color: #221f27
+    background-image: none
   }
   .c16o42s9 {
     background-color: #1f352f
@@ -610,120 +648,6 @@
   .cgsnbc4 {
     font-family: "PP neue montreal", sans-serif
   }
-  .cb01v94 {
-    margin-right: 20px
-  }
-  .cysadj5 {
-    margin-left: 20px
-  }
-  .cx0dzkn {
-    top: 0px
-  }
-  .c1dm9f9e {
-    grid-column-start: span 1
-  }
-  .c3vadkh {
-    grid-column-end: span 1
-  }
-  .c8734jr {
-    grid-row-start: span 1
-  }
-  .cf1pzdg {
-    grid-row-end: span 1
-  }
-  .czoccg1 {
-    margin-top: 20px
-  }
-  .c4agwzf {
-    margin-bottom: 30px
-  }
-  .cy5pr34 {
-    grid-template-rows: 1fr
-  }
-  .ce32buc {
-    align-items: start
-  }
-  .c1o60tab {
-    grid-column-start: 2
-  }
-  .c1quti4x {
-    grid-column-end: 3
-  }
-  .cxou7s9 {
-    grid-row-start: 1
-  }
-  .cldsfko {
-    grid-row-end: 2
-  }
-  .c1xhnsa7 {
-    order: 1
-  }
-  .colidgn {
-    flex-wrap: wrap
-  }
-  .c15q82ln {
-    outline-color: auto
-  }
-  .c1d660qe {
-    justify-content: space-around
-  }
-  .caxkdu5 {
-    display: grid
-  }
-  .cpybmu7 {
-    column-gap: 2rem
-  }
-  .c1ma7n46 {
-    row-gap: 2rem
-  }
-  .cnw1sg2 {
-    padding: 3rem
-  }
-  .c1syh61u {
-    outline-style: none
-  }
-  .ch4bzm4 {
-    background-color: transparent
-  }
-  .cb1exuz {
-    aspect-ratio: 4/3
-  }
-  .c1enfllu {
-    object-fit: contain
-  }
-  .c10qrqa6 {
-    overflow-x: clip
-  }
-  .c8i27jh {
-    overflow-y: clip
-  }
-  .c18w8xyq {
-    height: 100%
-  }
-  .croeuxe {
-    max-width: fit-content
-  }
-  .c1ggpt1j {
-    outline-color: oklch(0.03 0.004 336 / 1)
-  }
-  .c1qfylyx {
-    padding: 0
-  }
-  .c2slqn0 {
-    position: static
-  }
-  .crcjq9b {
-    font-family: recursive, sans-serif
-  }
-  .c4fjbca {
-    font-weight: 800
-  }
-  .c1icmm86 {
-    color: #d39cee
-  }
-  .c24fp2a {
-    background-color: rgb(255 71 20 / 1)
-  }
   .c1lg835j {
     padding: 0px
   }
@@ -747,6 +671,9 @@
   }
   .c1o0t0md {
     padding-left: 17px
+  }
+  .c2slqn0 {
+    position: static
   }
   .c1nbjqbc:hover {
     color: #cdb9d8
@@ -784,6 +711,264 @@
   }
   .c9i2am4:before {
     content: "î˜‚"
+  }
+  .c78mvsi {
+    margin-left: 2rem
+  }
+  .ct317n9 {
+    margin-right: 2rem
+  }
+  .chk344m {
+    margin-top: 1rem
+  }
+  .c1b2by93 {
+    margin-bottom: 1rem
+  }
+  .cy5pr34 {
+    grid-template-rows: 1fr
+  }
+  .ce32buc {
+    align-items: start
+  }
+  .c1o60tab {
+    grid-column-start: 2
+  }
+  .c1quti4x {
+    grid-column-end: 3
+  }
+  .cxou7s9 {
+    grid-row-start: 1
+  }
+  .cldsfko {
+    grid-row-end: 2
+  }
+  .c1xhnsa7 {
+    order: 1
+  }
+  .colidgn {
+    flex-wrap: wrap
+  }
+  .c15q82ln {
+    outline-color: auto
+  }
+  .caxkdu5 {
+    display: grid
+  }
+  .cq4p7q9 {
+    column-gap: 0rem
+  }
+  .c1docpgp {
+    row-gap: 0rem
+  }
+  .c1a7sqay {
+    padding-top: 1rem
+  }
+  .c1n6uxkv {
+    border-top: 10px solid hsl(281 94% 77% / 1)
+  }
+  .c1syh61u {
+    outline-style: none
+  }
+  .ch4bzm4 {
+    background-color: transparent
+  }
+  .c1dm9f9e {
+    grid-column-start: span 1
+  }
+  .c3vadkh {
+    grid-column-end: span 1
+  }
+  .c8734jr {
+    grid-row-start: span 1
+  }
+  .cf1pzdg {
+    grid-row-end: span 1
+  }
+  .cb1exuz {
+    aspect-ratio: 4/3
+  }
+  .c1enfllu {
+    object-fit: contain
+  }
+  .c10qrqa6 {
+    overflow-x: clip
+  }
+  .c8i27jh {
+    overflow-y: clip
+  }
+  .c18w8xyq {
+    height: 100%
+  }
+  .croeuxe {
+    max-width: fit-content
+  }
+  .c1ggpt1j {
+    outline-color: oklch(0.03 0.004 336 / 1)
+  }
+  .c1qfylyx {
+    padding: 0
+  }
+  .c24fp2a {
+    background-color: rgb(255 71 20 / 1)
+  }
+  .cydwfje {
+    padding-left: 3rem
+  }
+  .ckbgp3o {
+    padding-right: 3rem
+  }
+  .ccv4180 {
+    padding-bottom: 1rem
+  }
+  .c1ck1v1r {
+    background-color: hsl(284 0% 0% / 1)
+  }
+  .c1p0nxxt {
+    margin-right: 0rem
+  }
+  .c1rqxshr {
+    margin-left: 0rem
+  }
+  .c5y8hx0 {
+    position: sticky
+  }
+  .cx0dzkn {
+    top: 0px
+  }
+  .c15jxv3i {
+    margin-bottom: 2rem
+  }
+  .cbwbd30 {
+    padding-bottom: 0.5rem
+  }
+  .c1gityy6 {
+    color: hsl(300 0% 100% / 1)
+  }
+  .c12gz2u6 {
+    padding-top: 0.5rem
+  }
+  .c1afhbe7 {
+    transition-property: all
+  }
+  .c112iahb {
+    transition-duration: 200ms
+  }
+  .cr2eqlq {
+    transition-timing-function: ease
+  }
+  .c7l35c8 {
+    transition-delay: 5ms
+  }
+  .c1e12803 {
+    transition-behavior: normal
+  }
+  .c1asdf46 {
+    background-color: hsl(261 0% 0% / 1)
+  }
+  .c1byvbn7 {
+    font-family: "PP Mori", sans-serif
+  }
+  .c5k6wxj {
+    font-weight: 600
+  }
+  .c104h2h {
+    font-size: 1.2rem
+  }
+  .cww79fw {
+    line-height: 1.5rem
+  }
+  .cy2td3r {
+    color: hsl(300 30% 100% / 1)
+  }
+  .c10t1l53 {
+    letter-spacing: normal
+  }
+  .c2urkww {
+    padding-right: 2rem
+  }
+  .c1qygjb8 {
+    border-top-color: hsl(300 57% 0% / 1)
+  }
+  .c1aqualu {
+    border-right-color: hsl(300 57% 0% / 1)
+  }
+  .c1uft74j {
+    border-bottom-color: hsl(300 57% 0% / 1)
+  }
+  .cxxvzqk {
+    border-left-color: hsl(300 57% 0% / 1)
+  }
+  .c16ov6z2 {
+    font-style: normal
+  }
+  .caldv5i {
+    text-align: start
+  }
+  .c4wv1sb {
+    width: fit-content
+  }
+  .cyl4ruk {
+    align-self: center
+  }
+  .c21oh2i {
+    padding-left: 0.5rem
+  }
+  .c180oei2 {
+    margin: 0px
+  }
+  .c1i9wn5g {
+    font-weight: 400
+  }
+  .c13fy17c {
+    font-size: 2rem
+  }
+  .cflhtbc {
+    align-self: flex-end
+  }
+  .c145v2hb {
+    margin-top: 0em
+  }
+  .c1nvm1e2 {
+    margin-bottom: 0em
+  }
+  .c11b8y7p {
+    justify-content: flex-end
+  }
+  .c1r39wff {
+    padding-left: 2rem
+  }
+  .cioxh9z {
+    background-image: linear-gradient(rgb(0 0 0 / 1) 0%, rgb(0 0 0 / 1) 100%)
+  }
+  .cj19r94 {
+    color: hsl(141 100% 76% / 1)
+  }
+  .c9gybr1 {
+    border-top-color: hsl(300 0% 0% / 0)
+  }
+  .coppku7 {
+    border-right-color: hsl(300 0% 0% / 0)
+  }
+  .c7hlbf1 {
+    border-bottom-color: hsl(300 0% 0% / 0)
+  }
+  .chnuqgv {
+    border-left-color: hsl(300 0% 0% / 0)
+  }
+  .c10utuv2 {
+    color: hsl(100 52% 54% / 1)
+  }
+  .cwodw59 {
+    font-size: 1.7rem
+  }
+  .c1ncl8nx {
+    color: rgb(117 199 77 / 1)
+  }
+  .c2k42bz {
+    color: rgb(105 87 92 / 1)
+  }
+  .c1cwxjj6 {
+    width: 52ch
   }
 }
 @media all and (max-width: 991px) {

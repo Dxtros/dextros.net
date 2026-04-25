@@ -30,57 +30,50 @@ import { Image as Image } from "@webstudio-is/sdk-components-react";
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c1ck1v1r`}>
+className={`w-element cioxh9z`}>
 <div
-className={`w-element c78mvsi ct317n9 chk344m c1b2by93 ${"home-wrapper"}`}>
+className={`w-element c78mvsi ct317n9 chk344m c1b2by93`}>
 <div
-className={`w-element cydwfje ckbgp3o c1a7sqay ccv4180`}>
+className={`w-element`}>
+<h2
+className={`w-element cwodw59 cyxyaon cezfhvi`}>
+{"About "}
+<span
+className={`w-element c1ncl8nx`}>
+{"AnnexNews"}
+</span>
+</h2>
+<p
+className={`w-element c2k42bz c1cwxjj6`}>
+{"Heres some writing about AnnexNews I did a lot of blah blah. I even managed the newspaper and contributed. You know what color the next issue will be? well I don't at all and we should probably figure that out pretty soon."}
+</p>
+</div>
+<div
+className={`w-element`}>
 <header
 className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn cez508d c15jxv3i cbwbd30 c1gityy6 c12gz2u6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46`}>
-<h1
-className={`w-element cyxyaon c1i9wn5g c13fy17c caldv5i c1gityy6 cflhtbc c145v2hb c1nvm1e2 c2n39l7 c11b8y7p c1r39wff`}>
+<Link
+className={`w-element cyxyaon c1i9wn5g c13fy17c caldv5i c1gityy6 cflhtbc c145v2hb c1nvm1e2 c2n39l7 c11b8y7p c1r39wff c9gybr1 coppku7 c7hlbf1 chnuqgv`}>
 {"Dextros.net"}
-</h1>
-<h2
-className={`w-element c1byvbn7 c5k6wxj c104h2h cww79fw cy2td3r c10t1l53 c2urkww c1qygjb8 c1aqualu c1uft74j cxxvzqk c16ov6z2 caldv5i c2z4q9g c4wv1sb c9fk8uj cyl4ruk c21oh2i c180oei2`}>
+</Link>
+<h1
+className={`w-element c1byvbn7 c1i9wn5g c13fy17c cww79fw cy2td3r c10t1l53 c2urkww c1qygjb8 c1aqualu c1uft74j cxxvzqk c16ov6z2 caldv5i c2z4q9g c4wv1sb c9fk8uj cyl4ruk c21oh2i c180oei2`}>
 {"This is "}
 <span
-className={`w-element cj19r94 covlakf`}>
-{"Dexter Delaski's"}
+className={`w-element c10utuv2 covlakf`}>
+{"AnnexNews"}
 </span>
-{" Portfolio"}
-</h2>
+{" "}
+</h1>
 </header>
 <div
-className={`w-element c16fd9wg cy5pr34 c1uj1b52 c1nb70ul ce32buc c1o60tab c1quti4x cxou7s9 cldsfko c1xhnsa7 colidgn c15q82ln c1xgflv3 caxkdu5 cq4p7q9 c1docpgp c1a7sqay c1n6uxkv`}>
-<Image
-src={"/assets/IMG_0169_-p_IVVxppSZl8IeMvE8Lr.jpeg"}
-width={4032}
-height={3024}
-alt={""}
-className={`w-image cxmtpu8 c1612k1t ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu c10qrqa6 c8i27jh cs9gzdy c18w8xyq croeuxe c1ggpt1j ch4bzm4 c2slqn0 c1qfylyx`} />
-<div
-className={`w-element c1syh61u c107mqr1 ch4bzm4`}>
-<Link
-href={"/annexnews"}
-className={`w-element`}>
+className={`w-element c1pmamtn c1nb70ul`}>
 <Image
 src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
 width={4032}
 height={3024}
 alt={""}
-className={`w-image cxmtpu8 c1612k1t ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu c10qrqa6 c8i27jh cs9gzdy c18w8xyq croeuxe c1ggpt1j ch4bzm4 c1qfylyx`} />
-</Link>
-</div>
-<div
-className={`w-element c1syh61u c107mqr1 ch4bzm4`}>
-<Image
-src={"/assets/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png"}
-width={2401}
-height={2401}
-alt={""}
-className={`w-image cxmtpu8 c1612k1t ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu c10qrqa6 c8i27jh cs9gzdy c18w8xyq croeuxe c1ggpt1j c24fp2a c1qfylyx`} />
-</div>
+className={`w-image`} />
 </div>
 </div>
 </div>
