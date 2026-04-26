@@ -1,5 +1,10 @@
 
     export const assets = {
+  "0a45c94ff0ad92c35d92d5c9d96e8b3f4c3fd95d371caa4e10e86e982dcebd1c": {
+    "url": "/cgi/image/AnnexNewsPortfolioImages_40_sZWh0w0YE7x5Lrwh_sQ8D.webp?format=raw",
+    "width": 4000,
+    "height": 2250
+  },
   "1e015584f34e869c5df3c1f5f4420393365220b44fe3cfb82c12f9b79d3f5a80": {
     "url": "/cgi/asset/PPMori-ExtralightItalic_062GeRs9nV3dH0l7aB2KO.woff2?format=raw",
     "family": "PP Mori",
@@ -95,10 +100,20 @@
   "9c8474014a5216d3f75049247853dc7eff55d4436ad22246127cd40fc3a0f097": {
     "url": "/cgi/asset/Donk_Loading_Video_V1_3kKKjPSEC6JB604fsS6dU.mp4?format=raw"
   },
+  "a81490f97d921d05e22f764245e00dcf8fee7cb0543ce218e857f0db1505bcdf": {
+    "url": "/cgi/image/AnnexNewsContributions_CcZxhAvt9NHPSFC5nvwYh.png?format=raw",
+    "width": 4000,
+    "height": 2250
+  },
   "b75acbe20bcb406808e0c9d97b327f7ead5e8f1f22f8969d907ec00f08762d7d": {
     "url": "/cgi/image/Donk_Sticker_V1_BusinessCard_CXG-C_bcZXcwLP81ZJ-O1.png?format=raw",
     "width": 1006,
     "height": 598
+  },
+  "c36054e64a3085e904cc469990d9ac16dfd5ab41bcc700df202a0aaac3d4edd8": {
+    "url": "/cgi/image/AnnexNewsPortfolioImages_41_(1)_fBvKY4V4dmGKb9jzPf0Mo.webp?format=raw",
+    "width": 4000,
+    "height": 2250
   },
   "cc7491d271cd77c3de9a9bf1e943cd449a41b7b3c046d583528ef1c1e27c20df": {
     "url": "/cgi/image/6804af8fb8181b857faedbc7_app_icon_256x256_XmjhU4P0qz7MLY4MnRx8z.png?format=raw",
