@@ -5,7 +5,6 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
@@ -30,81 +29,33 @@ import { Image as Image } from "@webstudio-is/sdk-components-react";
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element cioxh9z`}>
+className={`w-element c1ck1v1r`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 chk344m c1v0218m c1vsvjjg czi50zz cctdctb c1qn79gk ct1ghg1`}>
-<div
-className={`w-element c1m18qyo`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 chk344m c1v0218m`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
 <span
-className={`w-element c1ncl8nx`}>
-{"AnnexNews"}
+className={`w-element c1ggh5hq`}>
+{"Dexter Delaski"}
 </span>
 </h2>
 <p
 className={`w-element cezfhvi c1cwxjj6 c1gu6afd c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
 {"Heres some writing about AnnexNews I did a lot of blah blah. I even managed the newspaper and contributed. You know what color the next issue will be? well I don't at all and we should probably figure that out pretty soon."}
 </p>
-</div>
-<div
-className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1a7sqay cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1a7sqay ccv4180 c15i8137 cez508d cr4r2ag c1ydnkla c1bcei61 cgaq35f`}>
+<div
+className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cxmtpu8 c1612k1t c4wv1sb`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
-className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cb2o5ig c170fxhb c10ujmo9`}>
+className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c85x781 cb2o5ig c170fxhb c10ujmo9`}>
 {"←Dextros.net"}
 </Link>
-<h1
-className={`w-element cezfhvi c13fy17c cwdmw0u`}>
-<span
-className={`w-element`}>
-{"This is "}
-<span
-className={`w-element c10utuv2 covlakf c1vsvjjg czi50zz c1byuejl c17che94 cbzo4t9 c1hx77jk c1t021a9`}>
-<span
-className={`w-element`}>
-<Link
-href={"/annexnews"}
-className={`w-element c11yabwz c85x781 c1byvbn7`}>
-{"AnnexNews"}
-</Link>
-</span>
-</span>
-</span>
-</h1>
+</div>
 </header>
-<div
-className={`w-element c1pmamtn c1nb70ul c1054tb3`}>
-<Image
-src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
-width={4032}
-height={3024}
-alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
-<Image
-src={"/assets/AnnexNewsContributions_CcZxhAvt9NHPSFC5nvwYh.png"}
-width={4000}
-height={2250}
-alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt c143pwbo c1vx1zci cyr2o6o`} />
-<Image
-src={"/assets/AnnexNewsPortfolioImages_40_sZWh0w0YE7x5Lrwh_sQ8D.webp"}
-width={4000}
-height={2250}
-alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
-<Image
-src={"/assets/AnnexNewsPortfolioImages_41_(1)_fBvKY4V4dmGKb9jzPf0Mo.webp"}
-width={4000}
-height={2250}
-alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
-</div>
-</div>
 </div>
 </Body>
 }

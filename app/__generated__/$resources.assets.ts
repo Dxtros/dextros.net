@@ -16,6 +16,11 @@
     "width": 480,
     "height": 308
   },
+  "2ed5d47d3ef364b4422280aeae253c9cc37dcdd8c4848ec1b93d44395879e449": {
+    "url": "/cgi/image/Screenshot_2026-04-29_at_4.43.50_PM_FOuuyfMBvI5e7IlknuFV9.png?format=raw",
+    "width": 3184,
+    "height": 1554
+  },
   "334541d10d39f2a3dfcd89f78ebde1adbd68ca11f71ec2d0043febf487b074bd": {
     "url": "/cgi/image/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg?format=raw",
     "width": 4032,
@@ -26,6 +31,12 @@
     "family": "PP Mori",
     "style": "italic",
     "weight": 400
+  },
+  "408aee0c26a1c13609209689b523fe3e1de4a71ef0454907a0043aa068ea745f": {
+    "url": "/cgi/asset/PPGoshaSans-Ultrabold_un7Cb6PEdBz5onhc2lF1u.woff2?format=raw",
+    "family": "PP Gosha Sans",
+    "style": "normal",
+    "weight": 700
   },
   "440c8ebd0828281904d19a62bc45584fbcfc89db006cc25b32a7438032a19b89": {
     "url": "/cgi/image/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png?format=raw",
@@ -44,17 +55,21 @@
     "style": "normal",
     "weight": 700
   },
-  "5116b65cdef9a76bb32a41e96ba8d0fcc7e7c91ab4c908eb92d73d1395e345a9": {
-    "url": "/cgi/asset/PPGoshaSans-Bold_0pdloCUdqC8fsgES0Xx6c.ttf?format=raw",
-    "family": "PP Gosha Sans",
-    "style": "normal",
-    "weight": 700
+  "57bb73c2fa2681dfce22c46aa972ae4d20d8be6956a26420469d6be99658b753": {
+    "url": "/cgi/image/Foodtruck_on_the_fritz_FDYpKw80mozryc4-c7t-4.png?format=raw",
+    "width": 1920,
+    "height": 1280
   },
   "6297bb1772ae3a04854ec00873969104057cc5cb99056cf17f8e72e8c41dcb13": {
     "url": "/cgi/asset/PPMori-Extralight_nONdvu0Hehny2F1FzFwxk.woff2?format=raw",
     "family": "PP Mori",
     "style": "normal",
     "weight": 200
+  },
+  "6a18b8d41c703ddadd52956b48701b7e4e762e105611214ef5cbede69e3e6db3": {
+    "url": "/cgi/image/IMG4MB_ezJhRiJ_uXQrWsff2XxHS.png?format=raw",
+    "width": 1920,
+    "height": 1440
   },
   "714f7dc37d3716e049101322fcc9ee33ea4cc5e0de5e149723cee45a87326a85": {
     "url": "/cgi/asset/NaNMetrifyA-TRIALStd-Blck_3SXpOdPdCwIKPTB8W2r4w.ttf?format=raw",
@@ -74,11 +89,22 @@
     "style": "italic",
     "weight": 700
   },
+  "8b9620fc50d1b22b7d0b04832c9762d6a1901be090fc669cca847df138f2cd4c": {
+    "url": "/cgi/image/Screenshot_2026-04-29_at_4.39.55_PM_r8FHsxwwtK4YJ2I2LTwV8.png?format=raw",
+    "width": 3430,
+    "height": 1924
+  },
   "8cdbc58a9d84c71ed2f9da1a8be08fe516176489c3ae62487580359f19af8e8c": {
     "url": "/cgi/asset/PPMori-BookItalic_f33T_sxTpNg3F9RdFWwBT.woff2?format=raw",
     "family": "PP Mori",
     "style": "italic",
     "weight": 900
+  },
+  "8ed6c1be8e6e1b15cdede21dfcb6a4582f573faf483918e31bb5949f6151368e": {
+    "url": "/cgi/asset/PPGoshaSans-Bold_mYqz7VFYKzZkVhz-ZugtN.woff2?format=raw",
+    "family": "PP Gosha Sans",
+    "style": "normal",
+    "weight": 700
   },
   "94579ec0a055929b41a73e978a901eb621042c2b90edb9daa4a54996b5987aa9": {
     "url": "/cgi/asset/PPMori-Book_WNrGXD10SX2qVbdkilwH8.woff2?format=raw",
@@ -105,6 +131,11 @@
     "width": 4000,
     "height": 2250
   },
+  "b2ae9176393ef40c513fda99a7983309300ff5a061ababdadfb01e945db21ca5": {
+    "url": "/cgi/image/Screenshot_2026-04-29_at_4.42.28_PM_ahcdA7MmUmstMoKkk7FVP.png?format=raw",
+    "width": 2652,
+    "height": 1412
+  },
   "b75acbe20bcb406808e0c9d97b327f7ead5e8f1f22f8969d907ec00f08762d7d": {
     "url": "/cgi/image/Donk_Sticker_V1_BusinessCard_CXG-C_bcZXcwLP81ZJ-O1.png?format=raw",
     "width": 1006,
@@ -130,6 +161,29 @@
     "family": "PP Mori",
     "style": "normal",
     "weight": 600
+  },
+  "ebbdb75261a85cf8c6f680408c6ec7b34302e3021dd5f4e88372df5f4d2b6681": {
+    "url": "/cgi/asset/PPGoshaSans-Ultralight_UGNnJqg6Zg_Ly7EkCOH6y.woff2?format=raw",
+    "family": "PP Gosha Sans",
+    "style": "normal",
+    "weight": 200
+  },
+  "f2daa96714baa04f3a1acab514fad9b655b56926ab54545aa28272d817237f00": {
+    "url": "/cgi/asset/PPGoshaSans-Regular_VHcsNUyc89hDXDoXLCfXW.woff2?format=raw",
+    "family": "PP Gosha Sans",
+    "style": "normal",
+    "weight": 400
+  },
+  "f69af0952c8e1c2c485b91beeec9cd51eca642843bddc41c8468392c608a9fe9": {
+    "url": "/cgi/image/Deck_And_Box_jErAWISCrEXlaexxQojjI.png?format=raw",
+    "width": 1920,
+    "height": 1440
+  },
+  "ff1c532055286b04ac1bfc1d74bea3b9bf0f3082b5d542f2aae3b833710b1248": {
+    "url": "/cgi/asset/PPGoshaSans-Thin_Z-mc1DllxjzKAyci_RRer.woff2?format=raw",
+    "family": "PP Gosha Sans",
+    "style": "normal",
+    "weight": 100
   }
 };
     

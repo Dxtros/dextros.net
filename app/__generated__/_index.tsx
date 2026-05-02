@@ -4,13 +4,13 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
+      import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
 import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-04-26T02:31:05.408Z";
+      export const lastPublished = "2026-05-02T20:20:52.891Z";
 
       export const siteName = "dextros.net";
 
@@ -21,7 +21,7 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["PPNeueMontreal-Regular_lrLIR3ee1RHd1xFeFTxCY.ttf","PPGoshaSans-Bold_0pdloCUdqC8fsgES0Xx6c.ttf","NaNMetrifyA-TRIALStd-Blck_3SXpOdPdCwIKPTB8W2r4w.ttf"]
+        ["PPGoshaSans-Ultrabold_un7Cb6PEdBz5onhc2lF1u.woff2","PPNeueMontreal-Regular_lrLIR3ee1RHd1xFeFTxCY.ttf","NaNMetrifyA-TRIALStd-Blck_3SXpOdPdCwIKPTB8W2r4w.ttf","PPGoshaSans-Bold_mYqz7VFYKzZkVhz-ZugtN.woff2","PPGoshaSans-Ultralight_UGNnJqg6Zg_Ly7EkCOH6y.woff2","PPGoshaSans-Regular_VHcsNUyc89hDXDoXLCfXW.woff2","PPGoshaSans-Thin_Z-mc1DllxjzKAyci_RRer.woff2"]
 
       export const pageBackgroundImageAssets: string[] =
         []
@@ -81,7 +81,7 @@ data-ws-tag="div"
 className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 c1jmjbut c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl cziclp0 c1kcosf1 c39rlbe`}>
 <Heading
 data-ws-tag="h1"
-className={`w-heading cpphq8o c18fwely c1l5j34b cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
+className={`w-heading cpphq8o c18fwely c1nvm1e2 cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
 {"Hello, "}
 </Heading>
 <Paragraph
@@ -97,7 +97,7 @@ data-ws-tag="div"
 className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1u94n63 c474mws c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl cziclp0 c1kcosf1 c150mdvp`}>
 <Heading
 data-ws-tag="h1"
-className={`w-heading cpphq8o c18fwely c1l5j34b cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
+className={`w-heading cpphq8o c18fwely c1nvm1e2 cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
 {"Reach out!"}
 </Heading>
 <Paragraph
@@ -133,8 +133,26 @@ className={`w-link c102fxno c170q8jk cf2jlwk cb0dmkf c16aiqev cv4etkq c1ntrdgi c
 </Box>
 <Text
 data-ws-tag="div"
-className={`w-text c1rvee0s co7ha2w cj9umz3 c10mvydg c1ypxaph c9fk8uj c6corq c70ei1s c1jo5tbg cxmtpu8 ca9uefi c5k5yqr c10mtka cqnnjlp cgsnbc4 c1jo75us c1jg1df0 c1udkgxc cxf3ms2 c1f738tz cth9q68 c1fz3eq7 c1afc7lm c1l47t7s cmtzdtm cqgheqg ckzgi9a cn9fis c1xqu59i cylzj05 clps2xo c164cme8 cscq89m cfemil6 ctaiwp5 c1925nrm`}>
-{"Thanks for looking! This is a place holder site until I get my actual site up and running, for now my portfolio is just a PDF."}
+className={`w-text c1rvee0s co7ha2w cj9umz3 c10mvydg c96dz5j c9fk8uj c6corq c70ei1s c1jo5tbg cxmtpu8 ca9uefi c5k5yqr c10mtka cqnnjlp cgsnbc4 c1jo75us c1fi6vz9 c1udkgxc c1dqvhk0 cxf3ms2 c1f738tz cth9q68 c1fz3eq7 c1afc7lm c1l47t7s cmtzdtm cqgheqg ckzgi9a cn9fis c1xqu59i cylzj05 clps2xo c164cme8 cscq89m cfemil6 ctaiwp5 c1925nrm`}>
+{"Thanks for looking! This is a place holder site,  for now my portfolio is just a PDF. I am working on my real website if you want to look the link is below. Warning: Only the first two project links work."}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+<Link_1
+href={"/home2"}
+className={`w-element c180yhoa c1i9wn5g cu7hrc c1afhbe7 c1hb38vr cr73qlp cu192y7 cnyys9z cnyzsxv c15jaqzu c1254vgp c119ehe9 c1f7flt2 cyhtcp2 c11s3ige c1jau6ft c1xhmh9u cdlsyrq c19tah9k c1wagkrj cjldm4r c6zpx33`}>
+{"Click here to enter the construction zone"}
+</Link_1>
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"This website is running on a server in my basement."}
 </Text>
 </Box>
 </Box>

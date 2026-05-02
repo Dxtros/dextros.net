@@ -5,7 +5,7 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image } from "@webstudio-is/sdk-components-react";
+import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
@@ -39,8 +39,8 @@ className={`w-element c1m18qyo`}>
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
 <span
-className={`w-element c1ncl8nx`}>
-{"AnnexNews"}
+className={`w-element cnkm23y`}>
+{"DONK"}
 </span>
 </h2>
 <p
@@ -69,8 +69,8 @@ className={`w-element c10utuv2 covlakf c1vsvjjg czi50zz c1byuejl c17che94 cbzo4t
 className={`w-element`}>
 <Link
 href={"/annexnews"}
-className={`w-element c11yabwz c85x781 c1byvbn7`}>
-{"AnnexNews"}
+className={`w-element cnkm23y c85x781 c1byvbn7`}>
+{"DONK"}
 </Link>
 </span>
 </span>
@@ -78,29 +78,39 @@ className={`w-element c11yabwz c85x781 c1byvbn7`}>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c1054tb3`}>
+className={`w-element c1pmamtn c1nb70ul c24fp2a c1054tb3`}>
 <Image
-src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
-width={4032}
-height={3024}
+src={"/assets/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png"}
 alt={""}
 className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+<Video
+preload={"auto"}
+autoPlay={true}
+muted={true}
+playsInline={true}
+crossOrigin={"anonymous"}
+src={"/assets/Donk_Loading_Video_V1_3kKKjPSEC6JB604fsS6dU.mp4"}
+width={"/assets/Donk_Loading_Video_V1_3kKKjPSEC6JB604fsS6dU.mp4"}
+height={"/assets/Donk_Loading_Video_V1_3kKKjPSEC6JB604fsS6dU.mp4"}
+alt={"/assets/Donk_Loading_Video_V1_3kKKjPSEC6JB604fsS6dU.mp4"}
+loop={true}
+className={`w-video`} />
 <Image
-src={"/assets/AnnexNewsContributions_CcZxhAvt9NHPSFC5nvwYh.png"}
-width={4000}
-height={2250}
+src={"/assets/Screenshot_2026-04-29_at_4.39.55_PM_r8FHsxwwtK4YJ2I2LTwV8.png"}
+width={3430}
+height={1924}
 alt={""}
 className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt c143pwbo c1vx1zci cyr2o6o`} />
 <Image
-src={"/assets/AnnexNewsPortfolioImages_40_sZWh0w0YE7x5Lrwh_sQ8D.webp"}
-width={4000}
-height={2250}
+src={"/assets/Screenshot_2026-04-29_at_4.42.28_PM_ahcdA7MmUmstMoKkk7FVP.png"}
+width={2652}
+height={1412}
 alt={""}
 className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
 <Image
-src={"/assets/AnnexNewsPortfolioImages_41_(1)_fBvKY4V4dmGKb9jzPf0Mo.webp"}
-width={4000}
-height={2250}
+src={"/assets/Screenshot_2026-04-29_at_4.43.50_PM_FOuuyfMBvI5e7IlknuFV9.png"}
+width={3184}
+height={1554}
 alt={""}
 className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
 </div>

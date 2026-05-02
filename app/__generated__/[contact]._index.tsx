@@ -29,39 +29,7 @@
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c1pmamtn c1xgflv3 c1jo5tbg c5tf688`}>
-<div
-className={`w-element`}>
-<div
-className={`w-element c2z4q9g cuyj2c cze7tgv c1uf6gp5 c16shzhh c1jwwzyo`}>
-<div
-className={`w-element`}>
-{"404"}
-</div>
-<div
-className={`w-element c1rvee0s c1gnstvv c12hnoj c1s84xtw c1c0ddk cl4ktzx`}>
-{"404"}
-</div>
-<div
-className={`w-element c1rvee0s c1gnstvv cf8jutm c1s84xtw cxhlit2 cl4ktzx`}>
-{"404"}
-</div>
-<div
-className={`w-element c1rvee0s cwimzng cpwzg5c cs9gzdy c5tf688 c16u47l2`} />
-</div>
-<p
-className={`w-element c2ec6lv covlakf c1gu6afd cdv4tzb cdzpd3k`}>
-{"PAGE NOT FOUND"}
-{""}
-<br />
-{""}
-<span
-className={`w-element c9k17mp`}>
-{"I warned you"}
-</span>
-</p>
-</div>
-</Body>
+className={`w-element`} />
 }
 
 
