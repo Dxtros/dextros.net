@@ -10,7 +10,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-27T22:42:49.788Z";
+      export const lastPublished = "2026-05-27T22:58:46.335Z";
 
       export const siteName = "dextros.net";
 
@@ -32,7 +32,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 return <Body
 className={`w-element c1twyxb c1ssvogt c2slqn0 c107mqr1 c1ck1v1r`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c1bpcc11 c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qina7l cx0dzkn c15i8137 c1i7tqz7`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qina7l cx0dzkn c15i8137 cob5b3p cpup32x c1i7tqz7`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 <span
@@ -62,7 +62,7 @@ className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7
 </header>
 <HtmlEmbed
 code={"<iframe\n  src=\"https://dxtros.github.io/puffingame\"\n  style=\"border:none; display:block; width:100%; height:100%;\"\n  scrolling=\"no\"\n  allowfullscreen\n></iframe>"}
-className={`w-html-embed cylzj05 c9fk8uj cs9gzdy c18j00yw c2z4q9g cj9umz3 cw5xqyu c1t1zmuq c11ldi3b`}>
+className={`w-html-embed cylzj05 c9fk8uj cs9gzdy c18j00yw c2z4q9g cj9umz3 cw5xqyu c1t1zmuq c11ldi3b c18w8xyq`}>
 </HtmlEmbed>
 </div>
 </Body>

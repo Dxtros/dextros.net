@@ -1069,11 +1069,14 @@
   .clio9o5 {
     border-bottom: 5px solid rgb(255 0 0 / 1)
   }
-  .c1bpcc11 {
-    height: fit-content
-  }
   .c1qina7l {
     position: fixed
+  }
+  .cob5b3p {
+    overflow-x: auto
+  }
+  .cpup32x {
+    overflow-y: auto
   }
   .c1u7sz1x {
     background-color: rgb(0 0 0 / 0.42)

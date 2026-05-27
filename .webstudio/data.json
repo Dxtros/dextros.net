@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "8b33ec20-ed7c-4daf-b481-8bf713172199",
+    "id": "b072b211-d294-4424-b40f-261e6ae3458c",
     "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
-    "version": 4824,
-    "createdAt": "2026-05-27T22:42:49.788+00:00",
-    "updatedAt": "2026-05-27T22:42:49.788+00:00",
+    "version": 4846,
+    "createdAt": "2026-05-27T22:58:46.335+00:00",
+    "updatedAt": "2026-05-27T22:58:46.335+00:00",
     "pages": {
       "meta": {
         "siteName": "dextros.net",
@@ -14563,18 +14563,6 @@
         }
       ],
       [
-        "7p_LBKQAPge_ZA4l_iNmv:p8eOIktc7fhlZ0xcFxuYL:height:",
-        {
-          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
-          "styleSourceId": "7p_LBKQAPge_ZA4l_iNmv",
-          "property": "height",
-          "value": {
-            "type": "keyword",
-            "value": "fit-content"
-          }
-        }
-      ],
-      [
         "7p_LBKQAPge_ZA4l_iNmv:p8eOIktc7fhlZ0xcFxuYL:position:",
         {
           "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
@@ -14790,18 +14778,6 @@
                 "value": "linear-gradient(rgb(0 0 0 / 1) 0%, rgb(0 0 0 / 1) 100%)"
               }
             ]
-          }
-        }
-      ],
-      [
-        "w9OdViBur1fBbN5eCchx9:p8eOIktc7fhlZ0xcFxuYL:display:",
-        {
-          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
-          "styleSourceId": "w9OdViBur1fBbN5eCchx9",
-          "property": "display",
-          "value": {
-            "type": "keyword",
-            "value": "none"
           }
         }
       ],
@@ -16372,6 +16348,43 @@
             "value": 0.3
           }
         }
+      ],
+      [
+        "w3rA9ZvW7kujKdut_z1jZ:p8eOIktc7fhlZ0xcFxuYL:height:",
+        {
+          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
+          "styleSourceId": "w3rA9ZvW7kujKdut_z1jZ",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 100
+          }
+        }
+      ],
+      [
+        "7p_LBKQAPge_ZA4l_iNmv:p8eOIktc7fhlZ0xcFxuYL:overflowX:",
+        {
+          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
+          "styleSourceId": "7p_LBKQAPge_ZA4l_iNmv",
+          "property": "overflowX",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "7p_LBKQAPge_ZA4l_iNmv:p8eOIktc7fhlZ0xcFxuYL:overflowY:",
+        {
+          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
+          "styleSourceId": "7p_LBKQAPge_ZA4l_iNmv",
+          "property": "overflowY",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -17684,13 +17697,6 @@
         }
       ],
       [
-        "w9OdViBur1fBbN5eCchx9",
-        {
-          "type": "local",
-          "id": "w9OdViBur1fBbN5eCchx9"
-        }
-      ],
-      [
         "pjBppwkYdwGH2FrmR0mp3",
         {
           "type": "local",
@@ -18912,15 +18918,6 @@
         }
       ],
       [
-        "KuT8Ni2hE7hfvU6zMOHZf",
-        {
-          "instanceId": "KuT8Ni2hE7hfvU6zMOHZf",
-          "values": [
-            "w9OdViBur1fBbN5eCchx9"
-          ]
-        }
-      ],
-      [
         "7hJnF-4lME5WW2_YRV0Mf",
         {
           "instanceId": "7hJnF-4lME5WW2_YRV0Mf",
@@ -19905,16 +19902,6 @@
           "name": "aria-label",
           "type": "string",
           "value": "Back to homepage"
-        }
-      ],
-      [
-        "E9aT98bDBzT5HV7h36IVZ",
-        {
-          "id": "E9aT98bDBzT5HV7h36IVZ",
-          "instanceId": "KuT8Ni2hE7hfvU6zMOHZf",
-          "name": "code",
-          "type": "string",
-          "value": ""
         }
       ],
       [
@@ -21253,10 +21240,6 @@
           "children": [
             {
               "type": "id",
-              "value": "KuT8Ni2hE7hfvU6zMOHZf"
-            },
-            {
-              "type": "id",
               "value": "Fj02S04q7SzE4GEBFisJC"
             }
           ]
@@ -21383,7 +21366,19 @@
           "children": [
             {
               "type": "text",
-              "value": "AnnexNews is a newspaper by Rodeo studio. My team members and I launched the first run of AnnexNews. Over the year I worked on this newspaper my roles were design manager and contributor. I contributed articles, ads, and illustrations. As the manager I planned meetings, deadlines, assigned jobs, helped brainstorm ideas and was in charge of the overall workflow.  "
+              "value": "AnnexNews is a newspaper by Rodeo studio. My team members and I launched the first run of AnnexNews. Over the year I worked on this newspaper my roles were design manager and contributor. I contributed articles, ads, and illustrations. "
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "As the manager I planned meetings, deadlines, assigned jobs, helped brainstorm ideas and was in charge of the overall workflow.  "
             },
             {
               "type": "text",
@@ -22748,15 +22743,6 @@
               "value": "←Dextros.net"
             }
           ]
-        }
-      ],
-      [
-        "KuT8Ni2hE7hfvU6zMOHZf",
-        {
-          "type": "instance",
-          "id": "KuT8Ni2hE7hfvU6zMOHZf",
-          "component": "HtmlEmbed",
-          "children": []
         }
       ],
       [

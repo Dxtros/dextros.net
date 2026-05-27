@@ -5,12 +5,12 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
+import { Image as Image } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-27T22:42:49.788Z";
+      export const lastPublished = "2026-05-27T22:58:46.335Z";
 
       export const siteName = "dextros.net";
 
@@ -31,9 +31,6 @@ import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-compon
       const Page = (_props: { system: any; }) => {
 return <Body
 className={`w-element cioxh9z cvdlrlu c1r066tk`}>
-<HtmlEmbed
-code={""}
-className={`w-html-embed c1kc4rp9`} />
 <div
 className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c185x3h3 cioxh9z cnt0haa c1e0u4m8 c4zu14m`}>
 <div
@@ -48,7 +45,14 @@ className={`w-element c1ncl8nx`}>
 </h2>
 <p
 className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c1p9st08 c1wgcehe cwoh74p c1n1io49 cor5man cxmepzc`}>
-{"AnnexNews is a newspaper by Rodeo studio. My team members and I launched the first run of AnnexNews. Over the year I worked on this newspaper my roles were design manager and contributor. I contributed articles, ads, and illustrations. As the manager I planned meetings, deadlines, assigned jobs, helped brainstorm ideas and was in charge of the overall workflow.  "}
+{"AnnexNews is a newspaper by Rodeo studio. My team members and I launched the first run of AnnexNews. Over the year I worked on this newspaper my roles were design manager and contributor. I contributed articles, ads, and illustrations. "}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"As the manager I planned meetings, deadlines, assigned jobs, helped brainstorm ideas and was in charge of the overall workflow.  "}
 {""}
 <br />
 {""}

@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-27T22:42:49.788Z";
+      export const lastPublished = "2026-05-27T22:58:46.335Z";
 
       export const siteName = "dextros.net";
 
