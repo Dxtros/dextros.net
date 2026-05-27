@@ -5,12 +5,12 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image } from "@webstudio-is/sdk-components-react";
+import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-02T20:20:52.891Z";
+      export const lastPublished = "2026-05-27T22:42:49.788Z";
 
       export const siteName = "dextros.net";
 
@@ -30,9 +30,12 @@ import { Image as Image } from "@webstudio-is/sdk-components-react";
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element cioxh9z`}>
+className={`w-element cioxh9z cvdlrlu c1r066tk`}>
+<HtmlEmbed
+code={""}
+className={`w-html-embed c1kc4rp9`} />
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 chk344m c1v0218m c1vsvjjg czi50zz cctdctb c1qn79gk ct1ghg1`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c185x3h3 cioxh9z cnt0haa c1e0u4m8 c4zu14m`}>
 <div
 className={`w-element c1m18qyo`}>
 <h2
@@ -44,14 +47,21 @@ className={`w-element c1ncl8nx`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
-{"Heres some writing about AnnexNews I did a lot of blah blah. I even managed the newspaper and contributed. You know what color the next issue will be? well I don't at all and we should probably figure that out pretty soon."}
+className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c1p9st08 c1wgcehe cwoh74p c1n1io49 cor5man cxmepzc`}>
+{"AnnexNews is a newspaper by Rodeo studio. My team members and I launched the first run of AnnexNews. Over the year I worked on this newspaper my roles were design manager and contributor. I contributed articles, ads, and illustrations. As the manager I planned meetings, deadlines, assigned jobs, helped brainstorm ideas and was in charge of the overall workflow.  "}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"I set up a content production workflow from scratch that helped shape the overall feeling of AnnexNews."}
 </p>
 </div>
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1a7sqay cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1a7sqay c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
@@ -59,9 +69,9 @@ className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7
 {"←Dextros.net"}
 </Link>
 <h1
-className={`w-element cezfhvi c13fy17c cwdmw0u`}>
+className={`w-element cezfhvi c13fy17c cwdmw0u c2oxu4r c1g1cqy2 cmnrw2m c11qq7dw chkblx2 cxxl6mw c12b3gp0`}>
 <span
-className={`w-element`}>
+className={`w-element cd7r3i5`}>
 {"This is "}
 <span
 className={`w-element c10utuv2 covlakf c1vsvjjg czi50zz c1byuejl c17che94 cbzo4t9 c1hx77jk c1t021a9`}>
@@ -78,31 +88,31 @@ className={`w-element c11yabwz c85x781 c1byvbn7`}>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c1054tb3`}>
+className={`w-element c1pmamtn c1nb70ul c1054tb3 c1aryxcd clk7tgs cu1f11x c198ibox`}>
 <Image
 src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
 width={4032}
 height={3024}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
 <Image
 src={"/assets/AnnexNewsContributions_CcZxhAvt9NHPSFC5nvwYh.png"}
 width={4000}
 height={2250}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt cwfl9pn`} />
 <Image
 src={"/assets/AnnexNewsPortfolioImages_40_sZWh0w0YE7x5Lrwh_sQ8D.webp"}
 width={4000}
 height={2250}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
 <Image
 src={"/assets/AnnexNewsPortfolioImages_41_(1)_fBvKY4V4dmGKb9jzPf0Mo.webp"}
 width={4000}
 height={2250}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
 </div>
 </div>
 </div>

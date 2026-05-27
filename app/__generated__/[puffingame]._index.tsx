@@ -10,7 +10,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-02T20:20:52.891Z";
+      export const lastPublished = "2026-05-27T22:42:49.788Z";
 
       export const siteName = "dextros.net";
 
@@ -32,7 +32,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 return <Body
 className={`w-element c1twyxb c1ssvogt c2slqn0 c107mqr1 c1ck1v1r`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c1bpcc11 c1ypy74x cbzc3j5 chk344m c1v0218m c1qina7l cx0dzkn c15i8137`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c1bpcc11 c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qina7l cx0dzkn c15i8137 c1i7tqz7`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 <span
@@ -41,7 +41,7 @@ className={`w-element`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
+className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
 {"I'm flattered that you've reached my very own web purgatory. "}
 {""}
 <br />
@@ -49,7 +49,7 @@ className={`w-element cezfhvi c1cwxjj6 c1gu6afd c1i9wn5g c1byvbn7 c16c35i3 cxmep
 {"Enjoy this puffin game I made. You've earned it. You can move him around with your arrow keys!"}
 </p>
 <header
-className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1a7sqay ccv4180 c15i8137 cez508d c1seoia4 cvqcjva c1t4ie9 clio9o5`}>
+className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1a7sqay ccv4180 colidgn ctivmsr c15i8137 cez508d c1seoia4 cvqcjva c1t4ie9 clio9o5 cssjns6 c17dzch8 c1iwjx0e`}>
 <div
 className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cxmtpu8 c1612k1t c4wv1sb`}>
 <Link
@@ -60,12 +60,9 @@ className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7
 </Link>
 </div>
 </header>
-</div>
-<div
-className={`w-element c1pmamtn c14ad4kz c1nb70ul c10qrqa6 c8i27jh c16fd9wg c17syjs3 c1uj1b52 c1eq90oq c9n4ez2 c1ezof0b ckaux8g c17s0qup c10x05km c1qina7l cjqc7wz`}>
 <HtmlEmbed
-code={"<iframe\n  src=\"https://dxtros.github.io/puffingame\"\n  width=\"100%\"\n  height=\"100%\"\n  style=\"border:none; display:block;\"\n  allowfullscreen\n  referrerpolicy=\"strict-origin-when-cross-origin\"\n  scrolling=\"no\"\n></iframe>"}
-className={`w-html-embed c107mqr1 c1u7sz1x c2eltoq c1qina7l cpphq8o c6corq c1pmamtn c1ezof0b c14ad4kz`}>
+code={"<iframe\n  src=\"https://dxtros.github.io/puffingame\"\n  style=\"border:none; display:block; width:100%; height:100%;\"\n  scrolling=\"no\"\n  allowfullscreen\n></iframe>"}
+className={`w-html-embed cylzj05 c9fk8uj cs9gzdy c18j00yw c2z4q9g cj9umz3 cw5xqyu c1t1zmuq c11ldi3b`}>
 </HtmlEmbed>
 </div>
 </Body>

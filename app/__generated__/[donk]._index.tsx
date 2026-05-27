@@ -10,7 +10,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-02T20:20:52.891Z";
+      export const lastPublished = "2026-05-27T22:42:49.788Z";
 
       export const siteName = "dextros.net";
 
@@ -32,7 +32,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 return <Body
 className={`w-element cioxh9z`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 chk344m c1v0218m c1vsvjjg czi50zz cctdctb c1qn79gk ct1ghg1`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1vsvjjg czi50zz cctdctb c1qn79gk ct1ghg1`}>
 <div
 className={`w-element c1m18qyo`}>
 <h2
@@ -44,14 +44,14 @@ className={`w-element cnkm23y`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
+className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
 {"Heres some writing about AnnexNews I did a lot of blah blah. I even managed the newspaper and contributed. You know what color the next issue will be? well I don't at all and we should probably figure that out pretty soon."}
 </p>
 </div>
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1a7sqay cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1a7sqay c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
@@ -59,7 +59,7 @@ className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7
 {"←Dextros.net"}
 </Link>
 <h1
-className={`w-element cezfhvi c13fy17c cwdmw0u`}>
+className={`w-element cezfhvi c13fy17c cwdmw0u c2oxu4r`}>
 <span
 className={`w-element`}>
 {"This is "}
@@ -78,11 +78,11 @@ className={`w-element cnkm23y c85x781 c1byvbn7`}>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c24fp2a c1054tb3`}>
+className={`w-element c1pmamtn c1nb70ul c24fp2a c1054tb3 c1aryxcd clk7tgs c198ibox`}>
 <Image
 src={"/assets/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png"}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
 <Video
 preload={"auto"}
 autoPlay={true}
@@ -100,19 +100,19 @@ src={"/assets/Screenshot_2026-04-29_at_4.39.55_PM_r8FHsxwwtK4YJ2I2LTwV8.png"}
 width={3430}
 height={1924}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt cwfl9pn`} />
 <Image
 src={"/assets/Screenshot_2026-04-29_at_4.42.28_PM_ahcdA7MmUmstMoKkk7FVP.png"}
 width={2652}
 height={1412}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
 <Image
 src={"/assets/Screenshot_2026-04-29_at_4.43.50_PM_FOuuyfMBvI5e7IlknuFV9.png"}
 width={3184}
 height={1554}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp c143pwbo c1vx1zci cyr2o6o`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
 </div>
 </div>
 </div>

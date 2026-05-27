@@ -9,7 +9,7 @@
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-02T20:20:52.891Z";
+      export const lastPublished = "2026-05-27T22:42:49.788Z";
 
       export const siteName = "dextros.net";
 
@@ -31,7 +31,7 @@
 return <Body
 className={`w-element c1ck1v1r`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 chk344m c1v0218m`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
@@ -41,11 +41,11 @@ className={`w-element c1ggh5hq`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
+className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
 {"Heres some writing about AnnexNews I did a lot of blah blah. I even managed the newspaper and contributed. You know what color the next issue will be? well I don't at all and we should probably figure that out pretty soon."}
 </p>
 <header
-className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1a7sqay ccv4180 c15i8137 cez508d cr4r2ag c1ydnkla c1bcei61 cgaq35f`}>
+className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1a7sqay ccv4180 colidgn ctivmsr c15i8137 cez508d cr4r2ag c1ydnkla c1bcei61 cgaq35f cssjns6 c17dzch8 c1iwjx0e`}>
 <div
 className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cxmtpu8 c1612k1t c4wv1sb`}>
 <Link

@@ -9,7 +9,7 @@
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-02T20:20:52.891Z";
+      export const lastPublished = "2026-05-27T22:42:49.788Z";
 
       export const siteName = "dextros.net";
 
