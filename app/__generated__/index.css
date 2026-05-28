@@ -708,6 +708,9 @@
   .cpstsr7 {
     background-color: hsl(265 33% 0% / 1)
   }
+  .c1168y5r {
+    padding-top: calc(env(safe-area-inset-top) + 1rem)
+  }
   .cwodw59 {
     font-size: 1.7rem
   }
@@ -846,11 +849,8 @@
   .c1asdf46 {
     background-color: hsl(261 0% 0% / 1)
   }
-  .colidgn {
-    flex-wrap: wrap
-  }
-  .ctivmsr {
-    align-content: start
+  .c1b213es {
+    align-content: stretch
   }
   .c15i8137 {
     z-index: 100
@@ -872,6 +872,9 @@
   }
   .c170edgp {
     row-gap: 1rem
+  }
+  .colidgn {
+    flex-wrap: wrap
   }
   .cp6lb0k {
     align-content: center
@@ -941,6 +944,9 @@
   }
   .cuux6af {
     border-bottom-color: hsl(295 95% 66% / 1)
+  }
+  .ctivmsr {
+    align-content: start
   }
   .c1y1e4qt {
     grid-template-rows: 1fr 1fr
@@ -1292,8 +1298,14 @@
   .c12b3gp0 {
     text-align: end
   }
+  .cd7r3i5 {
+    font-size: 1.5rem
+  }
   .c17dzch8 {
     align-items: start
+  }
+  .ckbw53 {
+    flex-grow: 1
   }
   .c1g0aj49 {
     line-height: 2.2rem
@@ -1327,9 +1339,6 @@
   }
   .c1xf4fo {
     flex-direction: row
-  }
-  .cd7r3i5 {
-    font-size: 1.5rem
   }
 }
 @media all and (max-width: 479px) {
@@ -1474,6 +1483,12 @@
   .c1f0iqtt {
     font-size: 50px
   }
+  .c1qn79gk {
+    padding-left: 1rem
+  }
+  .ct1ghg1 {
+    padding-right: 1rem
+  }
   .cjvbr88 {
     max-width: 100vw
   }
@@ -1510,22 +1525,13 @@
   .czi50zz {
     overflow-y: visible
   }
-  .c2oxu4r {
-    font-size: 0.3rem
+  .cssjtv0 {
+    padding-left: 0
   }
   .c16c35i3 {
     font-size: 0.7rem
   }
   .cctdctb {
     width: 100vw
-  }
-  .c1qn79gk {
-    padding-left: 1rem
-  }
-  .ct1ghg1 {
-    padding-right: 1rem
-  }
-  .c1dsizpw {
-    justify-content: space-around
   }
 }

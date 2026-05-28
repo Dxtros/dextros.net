@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-27T22:58:46.335Z";
+      export const lastPublished = "2026-05-28T00:34:29.758Z";
 
       export const siteName = "dextros.net";
 
@@ -28,9 +28,24 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       
             
+            const Script = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <script {...props} />;
+              }
+
+              return <script {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            const Style = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <style {...props} />;
+              }
+
+              return <style {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            
 
             export const CustomCode = () => {
-              return (<></>);
+              return (<><meta name={"viewport"} content={"width=device-width, initial-scale=1, viewport-fit=cover"}></meta></>);
             }
           
 

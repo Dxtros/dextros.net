@@ -10,7 +10,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-27T22:58:46.335Z";
+      export const lastPublished = "2026-05-28T00:34:29.758Z";
 
       export const siteName = "dextros.net";
 
@@ -32,7 +32,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 return <Body
 className={`w-element cioxh9z`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1vsvjjg czi50zz cctdctb c1qn79gk ct1ghg1`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qn79gk ct1ghg1 c1vsvjjg czi50zz cctdctb`}>
 <div
 className={`w-element c1m18qyo`}>
 <h2
@@ -45,21 +45,28 @@ className={`w-element cnkm23y`}>
 </h2>
 <p
 className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
-{"Heres some writing about AnnexNews I did a lot of blah blah. I even managed the newspaper and contributed. You know what color the next issue will be? well I don't at all and we should probably figure that out pretty soon."}
+{"Donk is a social media platform for voice chat and messaging. It's all about being a rock-solid platform without any bloat. This tone is what sets them apart and is where my focus was for the brand."}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"The brand is un-apologetic, noisy, and clear…almost blunt. It says it like it is, because it's customers are tired of the shareholder speak and profit focused companies."}
 </p>
 </div>
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1a7sqay c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1168y5r c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
-className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cb2o5ig c170fxhb c10ujmo9`}>
+className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cor5man cd7r3i5 cb2o5ig c170fxhb c10ujmo9`}>
 {"←Dextros.net"}
 </Link>
 <h1
-className={`w-element cezfhvi c13fy17c cwdmw0u c2oxu4r`}>
+className={`w-element cezfhvi c13fy17c cwdmw0u cjq3i40 cs1dfu3 cssjtv0`}>
 <span
 className={`w-element`}>
 {"This is "}

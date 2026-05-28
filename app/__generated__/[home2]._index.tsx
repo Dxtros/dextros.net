@@ -10,7 +10,7 @@ import { Image as Image } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-27T22:58:46.335Z";
+      export const lastPublished = "2026-05-28T00:34:29.758Z";
 
       export const siteName = "dextros.net";
 
@@ -32,25 +32,25 @@ import { Image as Image } from "@webstudio-is/sdk-components-react";
 return <Body
 className={`w-element c1ck1v1r`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qn79gk ct1ghg1`}>
 <header
-className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1a7sqay ccv4180 colidgn ctivmsr c15i8137 cez508d cssjns6 c17dzch8 c1iwjx0e`}>
+className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1168y5r ccv4180 c1gtwe88 c1b213es c15i8137 cez508d cssjns6 c17dzch8 c1iwjx0e`}>
 <div
-className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cxmtpu8 c1612k1t c4wv1sb csih1b0 ctpl1ee c1ue3tv9 cssjns6 c1dsizpw`}>
+className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cxmtpu8 c1612k1t c4wv1sb csih1b0 ctpl1ee c1ue3tv9 cssjns6 c198ibox ckbw53 c1rxlz40 cz5dk88`}>
 <h1
-className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon cwdmw0u cjq3i40 cs1dfu3`}>
+className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon cwdmw0u cor5man cjq3i40 cs1dfu3 cd7r3i5`}>
 {"Dextros.net"}
 </h1>
 <nav
-className={`w-element ckpvxmq c1xf4fo c1pmamtn c17pvtw7 c1vtegwu c170edgp cjq3i40 cs1dfu3`}>
+className={`w-element ckpvxmq c1xf4fo cd7r3i5 c1pmamtn c17pvtw7 c1vtegwu c170edgp cjq3i40 cs1dfu3 cz5dk88 cor5man`}>
 <Link
 href={"/"}
-className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c1byvbn7 c5k6wxj c1gu6afd caldv5i cy14ied c1cj6fcz cflhtbc c85x781 c1sjk7e7 c1y8lqwu c1w65828 cp2mdw2 c14zfp4g`}>
+className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c1byvbn7 c5k6wxj c1gu6afd caldv5i cy14ied c1cj6fcz cflhtbc c85x781 c1sjk7e7 c1y8lqwu c1w65828 cp2mdw2 c14zfp4g cor5man`}>
 {"Contact"}
 </Link>
 <Link
 href={"/"}
-className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c1byvbn7 c5k6wxj c1gu6afd caldv5i cy14ied c1cj6fcz cflhtbc c85x781 c1sjk7e7 c1y8lqwu c1w65828 cp2mdw2 c14zfp4g`}>
+className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c1byvbn7 c5k6wxj c1gu6afd caldv5i cy14ied c1cj6fcz cflhtbc c85x781 c1sjk7e7 c1y8lqwu c1w65828 cp2mdw2 c14zfp4g cor5man`}>
 {"About"}
 </Link>
 </nav>
@@ -68,7 +68,7 @@ className={`w-element cj19r94 c5k6wxj`}>
 <div
 className={`w-element`}>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c14hxc9j`}>
+className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe cor5man c14hxc9j`}>
 {"Im still working on this website, its done though...totally, yep. Just watch your step and dont click on "}
 <Link
 href={"/puffingame"}
