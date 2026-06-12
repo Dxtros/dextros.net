@@ -3,14 +3,16 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-react";
+import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-react/components";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-28T00:34:29.758Z";
+      export const projectDomain = "dextrosnet-4002a";
+
+      export const lastPublished = "2026-06-12T20:25:53.270Z";
 
       export const siteName = "dextros.net";
 
@@ -32,9 +34,9 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 return <Body
 className={`w-element cioxh9z`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qn79gk ct1ghg1 c1vsvjjg czi50zz cctdctb`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq clc568a cmvyipf cp4b12u c1rqxshr c1qn79gk ct1ghg1 c1vsvjjg czi50zz cctdctb`}>
 <div
-className={`w-element c1m18qyo`}>
+className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1m18qyo`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
@@ -44,7 +46,7 @@ className={`w-element cnkm23y`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
+className={`w-element c1cwxjj6 croeuxe c1o3x2cf c14qcx2s c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
 {"Donk is a social media platform for voice chat and messaging. It's all about being a rock-solid platform without any bloat. This tone is what sets them apart and is where my focus was for the brand."}
 {""}
 <br />
@@ -58,38 +60,37 @@ className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1168y5r c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1168y5r cezfhvi cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
-className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cor5man cd7r3i5 cb2o5ig c170fxhb c10ujmo9`}>
+className={`w-element c16dkcyd caldv5i c16ov6z2 c14s6edz c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cyl4ruk cb2o5ig c170fxhb c10ujmo9`}>
 {"←Dextros.net"}
 </Link>
 <h1
-className={`w-element cezfhvi c13fy17c cwdmw0u cjq3i40 cs1dfu3 cssjtv0`}>
+className={`w-element cezfhvi c13fy17c cwdmw0u cjq3i40 cs1dfu3 cssjtv0 cx8i6iw`}>
 <span
-className={`w-element`}>
+className={`w-element c6mvio c1xk6thv c16ov6z2 c4fjbca c1no0pl7 c5t663q cblsyrq c5wqmxl`}>
 {"This is "}
 <span
-className={`w-element c10utuv2 covlakf c1vsvjjg czi50zz c1byuejl c17che94 cbzo4t9 c1hx77jk c1t021a9`}>
-<span
-className={`w-element`}>
-<Link
-href={"/annexnews"}
-className={`w-element cnkm23y c85x781 c1byvbn7`}>
+className={`w-element c4moxvu`}>
 {"DONK"}
-</Link>
 </span>
-</span>
+{" "}
 </span>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c24fp2a c1054tb3 c1aryxcd clk7tgs c198ibox`}>
+className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1054tb3 c1aryxcd clk7tgs c198ibox cxbkj8z c1aje6fa c1lanzf5`}>
+<div
+className={`w-element cs9gzdy`}>
 <Image
-src={"/assets/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png"}
+src={"/assets/DonkLogowide_Euhi7d0KJ1HctBWTEgsBw.png"}
 alt={""}
+width={1920}
+height={1080}
 className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
+</div>
 <Video
 preload={"auto"}
 autoPlay={true}
@@ -107,7 +108,7 @@ src={"/assets/Screenshot_2026-04-29_at_4.39.55_PM_r8FHsxwwtK4YJ2I2LTwV8.png"}
 width={3430}
 height={1924}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt cwfl9pn`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt chyarap cwfl9pn`} />
 <Image
 src={"/assets/Screenshot_2026-04-29_at_4.42.28_PM_ahcdA7MmUmstMoKkk7FVP.png"}
 width={2652}

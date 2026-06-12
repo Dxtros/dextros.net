@@ -3,13 +3,15 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-28T00:34:29.758Z";
+      export const projectDomain = "dextrosnet-4002a";
+
+      export const lastPublished = "2026-06-12T20:25:53.270Z";
 
       export const siteName = "dextros.net";
 
@@ -31,7 +33,7 @@
 return <Body
 className={`w-element c1ck1v1r`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c1qn79gk ct1ghg1`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq clc568a cmvyipf cp4b12u c1rqxshr c1qn79gk ct1ghg1`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 <span
@@ -40,7 +42,7 @@ className={`w-element`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
+className={`w-element c1cwxjj6 croeuxe c1o3x2cf c14qcx2s c1i9wn5g c1byvbn7 c16c35i3 cxmepzc`}>
 {"I'm flattered that you've reached my very own web purgatory. "}
 {""}
 <br />
@@ -48,13 +50,13 @@ className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c16c35
 {"Have a good day! "}
 </p>
 <header
-className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1asdf46 c1168y5r ccv4180 c1gtwe88 c1b213es c15i8137 cez508d c1seoia4 cvqcjva c1t4ie9 clio9o5 cssjns6 c17dzch8 c1iwjx0e`}>
+className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 cq132t4 c1168y5r ccv4180 c1gtwe88 c1b213es c1kgmnj2 c15i8137 cez508d c1seoia4 cvqcjva c1t4ie9 clio9o5 cssjns6 c17dzch8 c18o5lbq`}>
 <div
 className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cxmtpu8 c1612k1t c4wv1sb`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
-className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c85x781 cor5man cd7r3i5 cb2o5ig c170fxhb c10ujmo9`}>
+className={`w-element c1o3x2cf caldv5i c16ov6z2 c1vn3fqh c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c85x781 cb2o5ig c170fxhb c10ujmo9`}>
 {"←Dextros.net"}
 </Link>
 </div>

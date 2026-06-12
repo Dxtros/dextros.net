@@ -3,14 +3,16 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image } from "@webstudio-is/sdk-components-react";
+import { Image as Image } from "@webstudio-is/sdk-components-react/components";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-28T00:34:29.758Z";
+      export const projectDomain = "dextrosnet-4002a";
+
+      export const lastPublished = "2026-06-12T20:25:53.270Z";
 
       export const siteName = "dextros.net";
 
@@ -32,9 +34,9 @@ import { Image as Image } from "@webstudio-is/sdk-components-react";
 return <Body
 className={`w-element cioxh9z cvdlrlu c1r066tk`}>
 <div
-className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq c1ypy74x cbzc3j5 cp4b12u c1rqxshr c185x3h3 cioxh9z c1qn79gk ct1ghg1 cnt0haa c1e0u4m8 c4zu14m`}>
+className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq clc568a cmvyipf cp4b12u c1rqxshr c185x3h3 cioxh9z c1qn79gk ct1ghg1 cnt0haa`}>
 <div
-className={`w-element c1m18qyo`}>
+className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1m18qyo`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
@@ -44,7 +46,7 @@ className={`w-element c1ncl8nx`}>
 </span>
 </h2>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c1p9st08 c1wgcehe cwoh74p c1n1io49 cor5man cxmepzc`}>
+className={`w-element c1cwxjj6 croeuxe c1o3x2cf cezfhvi c1i9wn5g c1byvbn7 c1p9st08 c1wgcehe cwoh74p c1n1io49 cxmepzc`}>
 {"AnnexNews is a newspaper by Rodeo studio. My team members and I launched the first run of AnnexNews. Over the year I worked on this newspaper my roles were design manager and contributor. I contributed articles, ads, and illustrations. "}
 {""}
 <br />
@@ -65,34 +67,34 @@ className={`w-element cezfhvi c1cwxjj6 c1gu6afd croeuxe c1i9wn5g c1byvbn7 c1p9st
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1168y5r c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1168y5r cezfhvi cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
-className={`w-element c13fy17c caldv5i c16ov6z2 cezfhvi c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cor5man cd7r3i5 cb2o5ig c170fxhb c10ujmo9`}>
+className={`w-element c16dkcyd caldv5i c16ov6z2 c14s6edz c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cyl4ruk cb2o5ig c170fxhb c10ujmo9`}>
 {"←Dextros.net"}
 </Link>
 <h1
-className={`w-element cezfhvi c13fy17c cwdmw0u cjq3i40 cs1dfu3 cssjtv0 cor5man c1g1cqy2 cmnrw2m c11qq7dw chkblx2 cxxl6mw c12b3gp0`}>
+className={`w-element cezfhvi c13fy17c cwdmw0u cjq3i40 cs1dfu3 cssjtv0 cor5man cx8i6iw c1g1cqy2 cmnrw2m c11qq7dw chkblx2 cxxl6mw c12b3gp0`}>
 <span
-className={`w-element`}>
+className={`w-element c6mvio c1xk6thv c16ov6z2 c4fjbca`}>
 {"This is "}
 <span
 className={`w-element c10utuv2 covlakf c1vsvjjg czi50zz c1byuejl c17che94 cbzo4t9 c1hx77jk c1t021a9`}>
 <span
 className={`w-element`}>
-<Link
+<span
 href={"/annexnews"}
-className={`w-element c11yabwz c85x781 c1byvbn7`}>
+className={`w-element cxdlarg`}>
 {"AnnexNews"}
-</Link>
+</span>
 </span>
 </span>
 </span>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c1054tb3 c1aryxcd clk7tgs cu1f11x c198ibox`}>
+className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1054tb3 c1aryxcd clk7tgs cu1f11x c198ibox`}>
 <Image
 src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
 width={4032}

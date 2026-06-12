@@ -3,13 +3,15 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body } from "@webstudio-is/sdk-components-react-router";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-28T00:34:29.758Z";
+      export const projectDomain = "dextrosnet-4002a";
+
+      export const lastPublished = "2026-06-12T20:25:53.270Z";
 
       export const siteName = "dextros.net";
 

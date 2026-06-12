@@ -3,14 +3,16 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } from "@webstudio-is/sdk-components-react";
+import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } from "@webstudio-is/sdk-components-react/components";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
-      export const lastPublished = "2026-05-28T00:34:29.758Z";
+      export const projectDomain = "dextrosnet-4002a";
+
+      export const lastPublished = "2026-06-12T20:25:53.270Z";
 
       export const siteName = "dextros.net";
 
@@ -45,7 +47,7 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
             
 
             export const CustomCode = () => {
-              return (<><meta name={"viewport"} content={"width=device-width, initial-scale=1, viewport-fit=cover"}></meta></>);
+              return (<><Style>{"\n  @import url(\"https://use.typekit.net/eht2vto.css\");\n"}</Style><meta name={"viewport"} content={"width=device-width, initial-scale=1, viewport-fit=cover"}></meta>{"\n\n"}</>);
             }
           
 
@@ -149,7 +151,11 @@ className={`w-link c102fxno c170q8jk cf2jlwk cb0dmkf c16aiqev cv4etkq c1ntrdgi c
 <Text
 data-ws-tag="div"
 className={`w-text c1rvee0s co7ha2w cj9umz3 c10mvydg c96dz5j c9fk8uj c6corq c70ei1s c1jo5tbg cxmtpu8 ca9uefi c5k5yqr c10mtka cqnnjlp cgsnbc4 c1jo75us c1fi6vz9 c1udkgxc c1dqvhk0 cxf3ms2 c1f738tz cth9q68 c1fz3eq7 c1afc7lm c1l47t7s cmtzdtm cqgheqg ckzgi9a cn9fis c1xqu59i cylzj05 clps2xo c164cme8 cscq89m cfemil6 ctaiwp5 c1925nrm`}>
-{"Thanks for looking! This is a place holder site,  for now my portfolio is just a PDF. I am working on my real website if you want to look the link is below. Warning: Only the first two project links work."}
+{"Thanks for looking! This is a place holder site,  for now my portfolio is just a PDF. I am working on my real website if you want to look the link "}
+{""}
+<br />
+{""}
+{"is below."}
 {""}
 <br />
 {""}

@@ -141,6 +141,11 @@
     "width": 1006,
     "height": 598
   },
+  "c1118279a20928444219c20fd85f72e130b8e49ffe3403768d544c0c9ed97dac": {
+    "url": "/cgi/image/DonkLogowide_Euhi7d0KJ1HctBWTEgsBw.png?format=raw",
+    "width": 1920,
+    "height": 1080
+  },
   "c36054e64a3085e904cc469990d9ac16dfd5ab41bcc700df202a0aaac3d4edd8": {
     "url": "/cgi/image/AnnexNewsPortfolioImages_41_(1)_fBvKY4V4dmGKb9jzPf0Mo.webp?format=raw",
     "width": 4000,
@@ -153,6 +158,11 @@
   },
   "dbea9bf443f5d3acbdafb3c2faf5c5358ceaba9bf426c0ddec0b6a5f6f6fcc9c": {
     "url": "/cgi/image/IMG_0169_-p_IVVxppSZl8IeMvE8Lr.jpeg?format=raw",
+    "width": 4032,
+    "height": 3024
+  },
+  "e08d4ae1fc7aabf091fdd9026ca4e7411dcb08d158a01a68416317773abdd0d1": {
+    "url": "/cgi/image/IMG_0169_CpsRUkRSgijouOsr7Yo7o.png?format=raw",
     "width": 4032,
     "height": 3024
   },
