@@ -970,6 +970,9 @@
   .cp2mdw2 {
     border-left-color: hsl(177 22% 45% / 1)
   }
+  .c1h7s4j {
+    font-size: clamp(0.86rem, 2.07vi + 0.34rem, 2rem)
+  }
   .c1u9ijfx {
     font-family: polymath, sans-serif
   }
@@ -1200,11 +1203,11 @@
   .c10ebza8 {
     font-size: clamp(1.34rem, 4.02vi + 0.34rem, 3.55rem)
   }
-  .cl95v1y {
-    font-weight: 500
-  }
   .c2u3646 {
     order: -1
+  }
+  .cl95v1y {
+    font-weight: 500
   }
   .c180oei2 {
     margin: 0px
@@ -1215,8 +1218,11 @@
   .cxs8hhh {
     line-height: 1.2rem
   }
-  .c1wuxq3 {
-    margin-top: 2vw
+  .c6ab07s {
+    font-size: clamp(1.68rem, 5.56vi + 0.29rem, 4.74rem)
+  }
+  .czs7te {
+    margin-top: 2.5vw
   }
   .c1ibfla7 {
     background-color: rgb(20 10 23 / 1)
@@ -1257,9 +1263,6 @@
   .c145v2hb {
     margin-top: 0em
   }
-  .c1fg1g19 {
-    line-height: 5.7cqi
-  }
   .c1gu7eo6 {
     margin-top: 25px
   }
@@ -1268,6 +1271,9 @@
   }
   .czyu58b {
     font-size: 5.7cqi
+  }
+  .c1fg1g19 {
+    line-height: 5.7cqi
   }
   .c1atyyva {
     white-space: nowrap
@@ -1781,5 +1787,11 @@
   }
   .c1ww50s8 {
     line-height: 1.2rem
+  }
+  .c12vanva {
+    line-height: 2rem
+  }
+  .cr0n77r {
+    font-size: clamp(1.07rem, 2.89vi + 0.35rem, 2.67rem)
   }
 }

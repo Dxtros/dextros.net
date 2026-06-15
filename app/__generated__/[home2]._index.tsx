@@ -12,7 +12,7 @@ import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-compon
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T21:51:31.519Z";
+      export const lastPublished = "2026-06-15T22:18:04.873Z";
 
       export const siteName = "dextros.net";
 
@@ -71,16 +71,16 @@ className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh
 </nav>
 </header>
 <div
-className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1wuxq3 c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t cb3sunb cp1eyiw cbkxcvc c1nb70ul c198ibox cddmyif`}>
+className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 czs7te c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t cb3sunb cp1eyiw cbkxcvc c1nb70ul c198ibox cddmyif`}>
 <h1
-className={`w-element caldv5i cdv4tzb c2slqn0 c9fk8uj c1s4elmv c10ebza8 cl95v1y c6mvio c17k3sj5 clc568a cxmtpu8 c1612k1t c2u3646 c16ov6z2 c180oei2 cienr79 c4whn9i c1ww50s8 cylzj05 c3j9ogi c4zqbqv c17bpzx6 c1j25dvu ca01xcv c9tobo7 c86a6sb chkblx2 cxxl6mw c8mt9ag c18idd3b c11hdr06`}>
+className={`w-element caldv5i c2slqn0 c9fk8uj c17k3sj5 clc568a c1s4elmv c10ebza8 cxmtpu8 c1612k1t c2u3646 cdv4tzb c6mvio cl95v1y c16ov6z2 c180oei2 cienr79 c4whn9i c1ww50s8 cylzj05 c3j9ogi c4zqbqv c17bpzx6 c1j25dvu ca01xcv c9tobo7 c86a6sb chkblx2 cxxl6mw c8mt9ag c18idd3b c11hdr06`}>
 <span
-className={`w-element c1j13m01 cl95v1y cxs8hhh c6mvio c16ov6z2 cjcbavy c1j25dvu`}>
+className={`w-element c1j13m01 cl95v1y cxs8hhh c6mvio c16ov6z2 c6ab07s cjcbavy c1j25dvu c12vanva cr0n77r`}>
 {"Dexter Delaski"}
 </span>
 </h1>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe c1u9ijfx c1i9wn5g c16ov6z2 c19koeaj c14hxc9j`}>
+className={`w-element cezfhvi c1cwxjj6 c1h7s4j croeuxe c1u9ijfx c1i9wn5g c16ov6z2 c19koeaj c14hxc9j`}>
 {"Im still working on this website, its done though...totally, yep. Just watch your step and dont click on "}
 <Link
 href={"/puffingame"}
@@ -97,7 +97,7 @@ className={`w-element c1o42jo8 c2d8sz c2o3cq6 cmvg2j1`}>
 <div
 className={`w-element cvdod7s cs9gzdy`}>
 <h2
-className={`w-element caldv5i c1fg1g19 c2slqn0 c9fk8uj c1gu7eo6 c2eltoq c1w3euwl c1killdp c68tkei czyu58b c4fjbca c6mvio c132re45 clc568a cm3shcu ca9uefi c2n39l7 c16ov6z2 c1atyyva cienr79 c4whn9i c1ww50s8 cylzj05 c3j9ogi c4zqbqv c17bpzx6 c1j25dvu ca01xcv c9tobo7 c86a6sb chkblx2 cxxl6mw c8mt9ag c18idd3b c11hdr06`}>
+className={`w-element caldv5i c1gu7eo6 c2eltoq c1w3euwl c1killdp c2slqn0 c9fk8uj c132re45 clc568a c68tkei czyu58b cm3shcu ca9uefi c2n39l7 c1fg1g19 c6mvio c4fjbca c16ov6z2 c1atyyva cienr79 c4whn9i c1ww50s8 cylzj05 c3j9ogi c4zqbqv c17bpzx6 c1j25dvu ca01xcv c9tobo7 c86a6sb chkblx2 cxxl6mw c8mt9ag c18idd3b c11hdr06`}>
 {"Here are some of my projects"}
 </h2>
 </div>
@@ -114,7 +114,7 @@ src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
 width={4032}
 height={3024}
 alt={""}
-className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1c88w2b c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
+className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1c88w2b c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
 className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
@@ -138,7 +138,7 @@ src={"/assets/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png"}
 width={2401}
 height={2401}
 alt={""}
-className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c24fp2a c1qfylyx c10db4nh ccol0r2 c11qds07 c16eaown c1sk8w78`} />
+className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c24fp2a c1qfylyx c10db4nh ccol0r2 c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
 className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
@@ -162,7 +162,8 @@ src={"/assets/IMG_0169_CpsRUkRSgijouOsr7Yo7o.png"}
 width={4032}
 height={3024}
 alt={""}
-className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c2slqn0 c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
+className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
+</Link>
 <div
 className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
 <h3
@@ -174,7 +175,6 @@ className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cflhtbc c145v2hb
 {"Layout"}
 </p>
 </div>
-</Link>
 </div>
 <div
 className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 c1i7tqz7 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>

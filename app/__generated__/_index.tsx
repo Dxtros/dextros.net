@@ -12,7 +12,7 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T21:51:31.519Z";
+      export const lastPublished = "2026-06-15T22:18:04.873Z";
 
       export const siteName = "dextros.net";
 
