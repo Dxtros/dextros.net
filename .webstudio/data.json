@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "a37530fc-f2ef-444e-b5e1-e49e7860baf8",
+    "id": "0017c638-b666-4d34-9806-95d0679f1315",
     "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
-    "version": 6124,
-    "createdAt": "2026-06-12T20:25:53.27+00:00",
-    "updatedAt": "2026-06-12T20:25:53.27+00:00",
+    "version": 6156,
+    "createdAt": "2026-06-15T21:51:31.519+00:00",
+    "updatedAt": "2026-06-15T21:51:31.519+00:00",
     "pages": {
       "meta": {
         "siteName": "dextros.net",
@@ -16251,8 +16251,8 @@
           "property": "marginTop",
           "value": {
             "type": "unit",
-            "value": 36,
-            "unit": "px"
+            "unit": "vw",
+            "value": 2
           }
         }
       ],
@@ -16537,8 +16537,8 @@
           "property": "marginBottom",
           "value": {
             "type": "unit",
-            "value": 15,
-            "unit": "px"
+            "unit": "vw",
+            "value": 1
           }
         }
       ],
@@ -16806,9 +16806,8 @@
           "styleSourceId": "Af1DSFLubXkrHSYrG-rZh",
           "property": "fontSize",
           "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
+            "type": "unparsed",
+            "value": "clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)"
           }
         }
       ],
@@ -16821,19 +16820,6 @@
           "value": {
             "type": "keyword",
             "value": "fit-content"
-          }
-        }
-      ],
-      [
-        "Af1DSFLubXkrHSYrG-rZh:Vmpp1WIlOdATwrho_J4oG:fontSize:",
-        {
-          "breakpointId": "Vmpp1WIlOdATwrho_J4oG",
-          "styleSourceId": "Af1DSFLubXkrHSYrG-rZh",
-          "property": "fontSize",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
           }
         }
       ],
@@ -16897,8 +16883,8 @@
           "property": "paddingBottom",
           "value": {
             "type": "unit",
-            "unit": "rem",
-            "value": 1
+            "unit": "vw",
+            "value": 2
           }
         }
       ],
@@ -16940,9 +16926,8 @@
           "styleSourceId": "S_tI9RV1f8mxnm9VBIUqZ",
           "property": "fontSize",
           "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1.1
+            "type": "unparsed",
+            "value": "clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)"
           }
         }
       ],
@@ -16955,19 +16940,6 @@
           "value": {
             "type": "keyword",
             "value": "fit-content"
-          }
-        }
-      ],
-      [
-        "S_tI9RV1f8mxnm9VBIUqZ:Vmpp1WIlOdATwrho_J4oG:fontSize:",
-        {
-          "breakpointId": "Vmpp1WIlOdATwrho_J4oG",
-          "styleSourceId": "S_tI9RV1f8mxnm9VBIUqZ",
-          "property": "fontSize",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
           }
         }
       ],
@@ -19150,8 +19122,8 @@
           "property": "columnGap",
           "value": {
             "type": "unit",
-            "unit": "px",
-            "value": 25
+            "unit": "vw",
+            "value": 2
           }
         }
       ],
@@ -19163,8 +19135,8 @@
           "property": "rowGap",
           "value": {
             "type": "unit",
-            "unit": "px",
-            "value": 25
+            "unit": "vw",
+            "value": 2
           }
         }
       ],
@@ -19215,6 +19187,43 @@
           "value": {
             "type": "keyword",
             "value": "center"
+          }
+        }
+      ],
+      [
+        "YNEM04885hKaX5Dvdp5AK:p8eOIktc7fhlZ0xcFxuYL:paddingTop:",
+        {
+          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
+          "styleSourceId": "YNEM04885hKaX5Dvdp5AK",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "vw",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "5YAdm1C7c4diAA_Eml8Og:btFHh22tjla-HCaKSSn8k:fontSize:",
+        {
+          "breakpointId": "btFHh22tjla-HCaKSSn8k",
+          "styleSourceId": "5YAdm1C7c4diAA_Eml8Og",
+          "property": "fontSize",
+          "value": {
+            "type": "unparsed",
+            "value": "clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)"
+          }
+        }
+      ],
+      [
+        "giwCF1k6AhtqnV3WE3FHl:btFHh22tjla-HCaKSSn8k:justifyContent:",
+        {
+          "breakpointId": "btFHh22tjla-HCaKSSn8k",
+          "styleSourceId": "giwCF1k6AhtqnV3WE3FHl",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "space-between"
           }
         }
       ]
@@ -22280,7 +22289,7 @@
           "instanceId": "-RjpY18hXk0fYQLoje_m-",
           "name": "href",
           "type": "string",
-          "value": "https://link.storjshare.io/raw/jxjqjqz52ds72vxgtbt3tviiociq/file-share/portfolio/DexterDelaski_Portfolio.pdf"
+          "value": "https://f005.backblazeb2.com/file/nasus-file-share/DexterDelaski_Portfolio.pdf"
         }
       ],
       [

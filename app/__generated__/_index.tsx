@@ -12,7 +12,7 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-12T20:25:53.270Z";
+      export const lastPublished = "2026-06-15T21:51:31.519Z";
 
       export const siteName = "dextros.net";
 
@@ -129,7 +129,7 @@ className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzk
 data-ws-tag="div"
 className={`w-box c1pmamtn c1w3euwl c132re45 ct4sujx cjwfj78 c1sqm0uy c1xlne93 c1xwhhxx cbjaddb cshyuxo c1fpzyr8 c1054tb3 cnk4s3i c1r1gkmc cjq3i40 cs1dfu3 cz95xv0 chew6l2 c1tyd1nd cziclp0 c1kcosf1 czte5aw cxrwizz c2tg5kv cb3zv8h`}>
 <Link
-href={"https://link.storjshare.io/raw/jxjqjqz52ds72vxgtbt3tviiociq/file-share/portfolio/DexterDelaski_Portfolio.pdf"}
+href={"https://f005.backblazeb2.com/file/nasus-file-share/DexterDelaski_Portfolio.pdf"}
 prefetch={"render"}
 download={false}
 target={"_blank"}

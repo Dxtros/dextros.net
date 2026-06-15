@@ -12,7 +12,7 @@ import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-compon
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-12T20:25:53.270Z";
+      export const lastPublished = "2026-06-15T21:51:31.519Z";
 
       export const siteName = "dextros.net";
 
@@ -71,7 +71,7 @@ className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh
 </nav>
 </header>
 <div
-className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1s5dr81 c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t c1xz4naz cp1eyiw cbkxcvc c1nb70ul c198ibox cddmyif`}>
+className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1wuxq3 c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t cb3sunb cp1eyiw cbkxcvc c1nb70ul c198ibox cddmyif`}>
 <h1
 className={`w-element caldv5i cdv4tzb c2slqn0 c9fk8uj c1s4elmv c10ebza8 cl95v1y c6mvio c17k3sj5 clc568a cxmtpu8 c1612k1t c2u3646 c16ov6z2 c180oei2 cienr79 c4whn9i c1ww50s8 cylzj05 c3j9ogi c4zqbqv c17bpzx6 c1j25dvu ca01xcv c9tobo7 c86a6sb chkblx2 cxxl6mw c8mt9ag c18idd3b c11hdr06`}>
 <span
@@ -80,7 +80,7 @@ className={`w-element c1j13m01 cl95v1y cxs8hhh c6mvio c16ov6z2 cjcbavy c1j25dvu`
 </span>
 </h1>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe c1u9ijfx c1i9wn5g c16ov6z2 c14hxc9j`}>
+className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe c1u9ijfx c1i9wn5g c16ov6z2 c19koeaj c14hxc9j`}>
 {"Im still working on this website, its done though...totally, yep. Just watch your step and dont click on "}
 <Link
 href={"/puffingame"}
@@ -103,9 +103,9 @@ className={`w-element caldv5i c1fg1g19 c2slqn0 c9fk8uj c1gu7eo6 c2eltoq c1w3euwl
 </div>
 </div>
 <div
-className={`w-element c1a7sqay c19ye864 cgygc3p caxkdu5 ce32buc c1xgflv3 c1nb70ul colidgn ctivmsr c16fd9wg c1y1e4qt c1uj1b52 ch73ipk c1vqthi8 cm4s758 c77mn8i cz0zfsx cynrx3z c2cbc6c cp6xexe cm8pyud c1fltko0 c1uxswf0 cjatpx8 c1by97ks c14gkp7q c1rib3o6 c9rlox5`}>
+className={`w-element c1e1eqr5 cvovzsz c1yikbub caxkdu5 ce32buc c1xgflv3 c1nb70ul colidgn ctivmsr c16fd9wg c1y1e4qt c1uj1b52 ch73ipk c1vqthi8 cm4s758 c77mn8i cz0zfsx cynrx3z c2cbc6c cp6xexe cm8pyud c1fltko0 c1uxswf0 cjatpx8 c1by97ks c14gkp7q c1rib3o6 c9rlox5`}>
 <div
-className={`w-element c1syh61u c1jikpbn ccv4180 c107mqr1 cs9gzdy c18w8xyq ccw1j72 c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u c1jikpbn c14swfj8 c107mqr1 cs9gzdy c18w8xyq ccw1j72 c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 <Link
 href={"/annexnews"}
 className={`w-element c10qrqa6 c8i27jh c14zfp4g c2z4q9g csih1b0 ctpl1ee c11qds07 c1i7tqz7 cylzj05`}>
@@ -117,19 +117,19 @@ alt={""}
 className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1c88w2b c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
-className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn`}>
+className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
 <h3
-className={`w-element c1pf2tsz c1cwxjj6 c1nxo18g croeuxe c1k1w3lf c13nzw7m cyxyaon c5k6wxj cor5man`}>
+className={`w-element c1pf2tsz c1cwxjj6 c1o3x2cf croeuxe c1k1w3lf c13nzw7m cyxyaon c5k6wxj`}>
 {"AnnexNews"}
 </h3>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1fi6vz9 croeuxe caldv5i cflhtbc c145v2hb c1nvm1e2 c1u9ijfx cor5man`}>
+className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cflhtbc c145v2hb c1nvm1e2 c1u9ijfx`}>
 {"Project Managment"}
 </p>
 </div>
 </div>
 <div
-className={`w-element c1syh61u ch4bzm4 ccv4180 c107mqr1 cs9gzdy c18w8xyq c1u6ar0z c1e3eyqm cfqwzex c1qw608a c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c1u6ar0z c1e3eyqm cfqwzex c1qw608a c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 <Link
 href={"/donk"}
 className={`w-element c10qrqa6 c8i27jh c14zfp4g c2z4q9g csih1b0 ctpl1ee c11qds07 c1i7tqz7 cylzj05`}>
@@ -141,19 +141,19 @@ alt={""}
 className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c24fp2a c1qfylyx c10db4nh ccol0r2 c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
-className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn`}>
+className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
 <h3
-className={`w-element c1pf2tsz c1cwxjj6 c1nxo18g croeuxe c1k1w3lf c13nzw7m cyxyaon c5k6wxj cor5man`}>
+className={`w-element c1pf2tsz c1cwxjj6 c1o3x2cf croeuxe c1k1w3lf c13nzw7m cyxyaon c5k6wxj`}>
 {"Donk"}
 </h3>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1fi6vz9 croeuxe caldv5i cyl4ruk c145v2hb c1nvm1e2 c1u9ijfx cor5man`}>
+className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cyl4ruk c145v2hb c1nvm1e2 c1u9ijfx`}>
 {"Branding"}
 </p>
 </div>
 </div>
 <div
-className={`w-element c1syh61u ch4bzm4 ccv4180 c107mqr1 cs9gzdy c18w8xyq c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 <Link
 href={"/puffingame"}
 className={`w-element c10qrqa6 c8i27jh c14zfp4g c2z4q9g cz0agjb csih1b0 ctpl1ee c11qds07 c1i7tqz7 cylzj05`}>
@@ -164,20 +164,20 @@ height={3024}
 alt={""}
 className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c2slqn0 c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
 <div
-className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn`}>
+className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
 <h3
-className={`w-element c1pf2tsz c1cwxjj6 c1nxo18g croeuxe c1k1w3lf c13nzw7m cyxyaon c5k6wxj cor5man`}>
+className={`w-element c1pf2tsz c1cwxjj6 c1o3x2cf croeuxe c1k1w3lf c13nzw7m cyxyaon c5k6wxj`}>
 {"The Warez Game"}
 </h3>
 <p
-className={`w-element cezfhvi c1cwxjj6 c1fi6vz9 croeuxe caldv5i cflhtbc c145v2hb c1nvm1e2 c1u9ijfx cor5man`}>
+className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cflhtbc c145v2hb c1nvm1e2 c1u9ijfx`}>
 {"Layout"}
 </p>
 </div>
 </Link>
 </div>
 <div
-className={`w-element c1syh61u ch4bzm4 ccv4180 c107mqr1 cs9gzdy c18w8xyq c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 c1i7tqz7 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 c1i7tqz7 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 </div>
 </div>
 <div

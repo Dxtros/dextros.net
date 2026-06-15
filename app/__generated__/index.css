@@ -973,11 +973,14 @@
   .c1u9ijfx {
     font-family: polymath, sans-serif
   }
-  .c19ye864 {
-    column-gap: 25px
+  .c1e1eqr5 {
+    padding-top: 1vw
   }
-  .cgygc3p {
-    row-gap: 25px
+  .cvovzsz {
+    column-gap: 2vw
+  }
+  .c1yikbub {
+    row-gap: 2vw
   }
   .caxkdu5 {
     display: grid
@@ -1014,6 +1017,9 @@
   }
   .c1jikpbn {
     background-color: rgb(255 255 255 / 0)
+  }
+  .c14swfj8 {
+    padding-bottom: 2vw
   }
   .ccw1j72 {
     box-shadow: 0px 0px 10px 10px rgb(0 0 0 / 0.2) inset
@@ -1209,8 +1215,8 @@
   .cxs8hhh {
     line-height: 1.2rem
   }
-  .c1s5dr81 {
-    margin-top: 36px
+  .c1wuxq3 {
+    margin-top: 2vw
   }
   .c1ibfla7 {
     background-color: rgb(20 10 23 / 1)
@@ -1221,8 +1227,8 @@
   .c1rrn70t {
     align-items: stretch
   }
-  .c1xz4naz {
-    margin-bottom: 15px
+  .cb3sunb {
+    margin-bottom: 1vw
   }
   .cp1eyiw {
     padding-top: 0
@@ -1232,9 +1238,6 @@
   }
   .c1pf2tsz {
     color: hsl(183 0% 100% / 1)
-  }
-  .c1nxo18g {
-    font-size: 1rem
   }
   .c13nzw7m {
     margin-bottom: 1px
@@ -1268,6 +1271,9 @@
   }
   .c1atyyva {
     white-space: nowrap
+  }
+  .c1xz4naz {
+    margin-bottom: 15px
   }
   .cbxc8zo {
     ---display: none
@@ -1521,6 +1527,9 @@
   }
   .ckbw53 {
     flex-grow: 1
+  }
+  .c19koeaj {
+    font-size: clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)
   }
   .c8mt9ag {
     align-self: stretch

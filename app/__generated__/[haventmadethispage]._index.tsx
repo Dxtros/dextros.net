@@ -11,7 +11,7 @@
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-12T20:25:53.270Z";
+      export const lastPublished = "2026-06-15T21:51:31.519Z";
 
       export const siteName = "dextros.net";
 
