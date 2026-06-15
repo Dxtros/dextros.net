@@ -12,7 +12,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T22:18:04.873Z";
+      export const lastPublished = "2026-06-15T22:41:47.362Z";
 
       export const siteName = "dextros.net";
 
@@ -36,7 +36,7 @@ className={`w-element cioxh9z`}>
 <div
 className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq clc568a cmvyipf cp4b12u c1rqxshr c1qn79gk ct1ghg1 c1vsvjjg czi50zz cctdctb`}>
 <div
-className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1m18qyo`}>
+className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1m18qyo`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
@@ -60,7 +60,7 @@ className={`w-element c1cwxjj6 croeuxe c1o3x2cf c14qcx2s c1i9wn5g c1byvbn7 c16c3
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1168y5r cezfhvi cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1e1eqr5 cezfhvi cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
@@ -81,7 +81,7 @@ className={`w-element c4moxvu`}>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1054tb3 c1aryxcd clk7tgs c198ibox cxbkj8z c1aje6fa c1lanzf5`}>
+className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1054tb3 c1aryxcd clk7tgs c198ibox cxbkj8z c1aje6fa c1lanzf5`}>
 <div
 className={`w-element cs9gzdy`}>
 <Image

@@ -714,8 +714,8 @@
   .cpstsr7 {
     background-color: hsl(265 33% 0% / 1)
   }
-  .c1168y5r {
-    padding-top: calc(env(safe-area-inset-top) + 1rem)
+  .c1e1eqr5 {
+    padding-top: 1vw
   }
   .cynrx3z {
     padding-left: 5vw
@@ -894,6 +894,9 @@
   .cq132t4 {
     background-color: hsl(282 37% 7% / 1)
   }
+  .c1168y5r {
+    padding-top: calc(env(safe-area-inset-top) + 1rem)
+  }
   .c1b213es {
     align-content: stretch
   }
@@ -970,26 +973,26 @@
   .cp2mdw2 {
     border-left-color: hsl(177 22% 45% / 1)
   }
-  .c1h7s4j {
-    font-size: clamp(0.86rem, 2.07vi + 0.34rem, 2rem)
+  .c1fq120s {
+    border-top-width: 5px
   }
-  .c1u9ijfx {
-    font-family: polymath, sans-serif
+  .ctrx76n {
+    padding-top: clamp(16px, 1vw, 64px)
   }
-  .c1e1eqr5 {
-    padding-top: 1vw
+  .c16awfeh {
+    column-gap: clamp(16px, 2vw, 64px)
   }
-  .cvovzsz {
-    column-gap: 2vw
-  }
-  .c1yikbub {
-    row-gap: 2vw
+  .c1moi9gc {
+    row-gap: clamp(16px, 2vw, 64px)
   }
   .caxkdu5 {
     display: grid
   }
   .ce32buc {
     align-items: start
+  }
+  .c1webekv {
+    border-top-style: none
   }
   .ctivmsr {
     align-content: start
@@ -1011,9 +1014,6 @@
   }
   .cz0zfsx {
     border-bottom-style: none
-  }
-  .c1uxswf0 {
-    border-top: 5px none rgb(242 191 207 / 1)
   }
   .c1syh61u {
     outline-style: none
@@ -1062,18 +1062,6 @@
   }
   .c1sk8w78:hover {
     scale: 102% 102% 100%
-  }
-  .c1o42jo8 {
-    color: rgb(255 43 227 / 1)
-  }
-  .c2d8sz {
-    text-decoration-line: underline
-  }
-  .c2o3cq6:hover {
-    text-transform: uppercase
-  }
-  .cmvg2j1:hover {
-    font-size: clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)
   }
   .c180yhoa {
     color: hsl(54 4% 100% / 1)
@@ -1197,56 +1185,17 @@
   .c4fjbca {
     font-weight: 800
   }
-  .c1s4elmv {
-    color: hsl(282 70% 73% / 1)
-  }
-  .c10ebza8 {
-    font-size: clamp(1.34rem, 4.02vi + 0.34rem, 3.55rem)
-  }
-  .c2u3646 {
-    order: -1
-  }
-  .cl95v1y {
-    font-weight: 500
-  }
-  .c180oei2 {
-    margin: 0px
-  }
-  .c1j13m01 {
-    color: hsl(283 70% 73% / 1)
-  }
-  .cxs8hhh {
-    line-height: 1.2rem
-  }
-  .c6ab07s {
-    font-size: clamp(1.68rem, 5.56vi + 0.29rem, 4.74rem)
-  }
-  .czs7te {
-    margin-top: 2.5vw
-  }
-  .c1ibfla7 {
-    background-color: rgb(20 10 23 / 1)
-  }
-  .cjorn8w {
-    justify-content: start
-  }
-  .c1rrn70t {
-    align-items: stretch
-  }
-  .cb3sunb {
-    margin-bottom: 1vw
-  }
-  .cp1eyiw {
-    padding-top: 0
-  }
-  .cbkxcvc {
-    align-content: end
-  }
   .c1pf2tsz {
     color: hsl(183 0% 100% / 1)
   }
   .c13nzw7m {
     margin-bottom: 1px
+  }
+  .cjorn8w {
+    justify-content: start
+  }
+  .cbkxcvc {
+    align-content: end
   }
   .ceujke0 {
     align-items: end
@@ -1263,20 +1212,17 @@
   .c145v2hb {
     margin-top: 0em
   }
-  .c1gu7eo6 {
-    margin-top: 25px
+  .c1u9ijfx {
+    font-family: polymath, sans-serif
   }
-  .c68tkei {
-    color: hsl(282 37% 74% / 1)
+  .cp1eyiw {
+    padding-top: 0
   }
-  .czyu58b {
-    font-size: 5.7cqi
+  .c1ibfla7 {
+    background-color: rgb(20 10 23 / 1)
   }
-  .c1fg1g19 {
-    line-height: 5.7cqi
-  }
-  .c1atyyva {
-    white-space: nowrap
+  .c1rrn70t {
+    align-items: stretch
   }
   .c1xz4naz {
     margin-bottom: 15px
@@ -1286,9 +1232,6 @@
   }
   .cnz2ex0 {
     background-color: rgb(199 66 117 / 0.98)
-  }
-  .cvdod7s {
-    container-type: inline-size
   }
   .c1no0pl7 {
     border-top-color: rgb(255 69 20 / 1)
@@ -1305,14 +1248,77 @@
   .c4moxvu {
     color: rgb(255 71 20 / 1)
   }
+  .cvdod7s {
+    container-type: inline-size
+  }
   .cbv2m5x {
     font-size: 4.4cqi
+  }
+  .c1fg1g19 {
+    line-height: 5.7cqi
   }
   .c2eg361 {
     color: hsl(300 100% 82% / 0.39)
   }
+  .c180oei2 {
+    margin: 0px
+  }
+  .c1atyyva {
+    white-space: nowrap
+  }
   .cxdlarg {
     color: rgb(112 189 74 / 1)
+  }
+  .czs7te {
+    margin-top: 2.5vw
+  }
+  .cb3sunb {
+    margin-bottom: 1vw
+  }
+  .c1s4elmv {
+    color: hsl(282 70% 73% / 1)
+  }
+  .c10ebza8 {
+    font-size: clamp(1.34rem, 4.02vi + 0.34rem, 3.55rem)
+  }
+  .c2u3646 {
+    order: -1
+  }
+  .cl95v1y {
+    font-weight: 500
+  }
+  .c1j13m01 {
+    color: hsl(283 70% 73% / 1)
+  }
+  .cxs8hhh {
+    line-height: 1.2rem
+  }
+  .c6ab07s {
+    font-size: clamp(1.68rem, 5.56vi + 0.29rem, 4.74rem)
+  }
+  .c1h7s4j {
+    font-size: clamp(0.86rem, 2.07vi + 0.34rem, 2rem)
+  }
+  .c1o42jo8 {
+    color: rgb(255 43 227 / 1)
+  }
+  .c2d8sz {
+    text-decoration-line: underline
+  }
+  .c2o3cq6:hover {
+    text-transform: uppercase
+  }
+  .cmvg2j1:hover {
+    font-size: clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)
+  }
+  .c1gu7eo6 {
+    margin-top: 25px
+  }
+  .c68tkei {
+    color: hsl(282 37% 74% / 1)
+  }
+  .czyu58b {
+    font-size: 5.7cqi
   }
 }
 @media all and (max-width: 991px) {
@@ -1360,9 +1366,6 @@
   }
   .c1ue3tv9 {
     order: 0
-  }
-  .c14hxc9j {
-    overflow-wrap: break-word
   }
   .cjatpx8 {
     grid-template-columns: 1fr 1fr
@@ -1444,6 +1447,9 @@
   }
   .c1j25dvu {
     line-height: 2.5rem
+  }
+  .c14hxc9j {
+    overflow-wrap: break-word
   }
 }
 @media all and (max-width: 767px) {
@@ -1534,9 +1540,6 @@
   .ckbw53 {
     flex-grow: 1
   }
-  .c19koeaj {
-    font-size: clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)
-  }
   .c8mt9ag {
     align-self: stretch
   }
@@ -1567,6 +1570,9 @@
   .c1xf4fo {
     flex-direction: row
   }
+  .cddmyif {
+    display: block
+  }
   .ca01xcv {
     text-align: start
   }
@@ -1582,8 +1588,8 @@
   .cjcbavy {
     line-height: 1rem
   }
-  .cddmyif {
-    display: block
+  .c19koeaj {
+    font-size: clamp(0.69rem, 1.48vi + 0.32rem, 1.5rem)
   }
 }
 @media all and (max-width: 479px) {
