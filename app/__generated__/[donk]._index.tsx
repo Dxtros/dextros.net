@@ -12,7 +12,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T22:41:47.362Z";
+      export const lastPublished = "2026-06-15T23:12:23.715Z";
 
       export const siteName = "dextros.net";
 

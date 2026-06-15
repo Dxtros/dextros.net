@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "8f2a8825-e70c-4b9b-bc23-5456cf8d6821",
+    "id": "d4a4be20-dfa3-4f27-9302-7bd4319d5441",
     "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
-    "version": 6214,
-    "createdAt": "2026-06-15T22:41:47.362+00:00",
-    "updatedAt": "2026-06-15T22:41:47.362+00:00",
+    "version": 6226,
+    "createdAt": "2026-06-15T23:12:23.715+00:00",
+    "updatedAt": "2026-06-15T23:12:23.715+00:00",
     "pages": {
       "meta": {
         "siteName": "dextros.net",
@@ -8656,9 +8656,8 @@
           "styleSourceId": "pHB9qKI5I8b5dsD0geP03",
           "property": "height",
           "value": {
-            "type": "unit",
-            "unit": "%",
-            "value": 100
+            "type": "keyword",
+            "value": "auto"
           }
         }
       ],
@@ -19163,6 +19162,19 @@
           "value": {
             "type": "unparsed",
             "value": "clamp(16px, 1vw, 64px)"
+          }
+        }
+      ],
+      [
+        "FOLE2MrPSjLQq8i-dwTVz:p8eOIktc7fhlZ0xcFxuYL:minWidth:",
+        {
+          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
+          "styleSourceId": "FOLE2MrPSjLQq8i-dwTVz",
+          "property": "minWidth",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
           }
         }
       ]

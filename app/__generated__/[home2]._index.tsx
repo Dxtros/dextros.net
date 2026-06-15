@@ -12,7 +12,7 @@ import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-compon
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T22:41:47.362Z";
+      export const lastPublished = "2026-06-15T23:12:23.715Z";
 
       export const siteName = "dextros.net";
 
@@ -107,7 +107,7 @@ className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5`
 <div
 className={`w-element c1fq120s ctrx76n c16awfeh c1moi9gc caxkdu5 ce32buc c1xgflv3 c1webekv c1nb70ul colidgn ctivmsr c16fd9wg c1y1e4qt c1uj1b52 ch73ipk c1vqthi8 cm4s758 c77mn8i cz0zfsx cjatpx8 c1by97ks c14gkp7q c1rib3o6 c9rlox5`}>
 <div
-className={`w-element c1syh61u c1jikpbn c14swfj8 c107mqr1 cs9gzdy c18w8xyq ccw1j72 c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u c1jikpbn c14swfj8 c107mqr1 cs9gzdy c18w8xyq c3710mz ccw1j72 c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 <Link
 href={"/annexnews"}
 className={`w-element c10qrqa6 c8i27jh c14zfp4g c2z4q9g csih1b0 ctpl1ee c11qds07 c1i7tqz7 cylzj05`}>
@@ -116,7 +116,7 @@ src={"/assets/IMG_7824_VmNH3KqIu8gAByKOGbzkQ.jpg"}
 width={4032}
 height={3024}
 alt={""}
-className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1c88w2b c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
+className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c1twyxb c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1c88w2b c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
 className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
@@ -131,7 +131,7 @@ className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cflhtbc c145v2hb
 </div>
 </div>
 <div
-className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c1u6ar0z c1e3eyqm cfqwzex c1qw608a c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c3710mz c1u6ar0z c1e3eyqm cfqwzex c1qw608a c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 <Link
 href={"/donk"}
 className={`w-element c10qrqa6 c8i27jh c14zfp4g c2z4q9g csih1b0 ctpl1ee c11qds07 c1i7tqz7 cylzj05`}>
@@ -140,7 +140,7 @@ src={"/assets/DonkWordmarkSquareDonkV5-03_uzLEwNay3PnU34GDk-NG4.png"}
 width={2401}
 height={2401}
 alt={""}
-className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c24fp2a c1qfylyx c10db4nh ccol0r2 c11qds07 c16eaown c1sk8w78`} />
+className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c1twyxb c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c24fp2a c1qfylyx c10db4nh ccol0r2 c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
 className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
@@ -155,7 +155,7 @@ className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cyl4ruk c145v2hb
 </div>
 </div>
 <div
-className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c3710mz c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 <Link
 href={"/puffingame"}
 className={`w-element c10qrqa6 c8i27jh c14zfp4g c2z4q9g cz0agjb csih1b0 ctpl1ee c11qds07 c1i7tqz7 cylzj05`}>
@@ -164,7 +164,7 @@ src={"/assets/IMG_0169_CpsRUkRSgijouOsr7Yo7o.png"}
 width={4032}
 height={3024}
 alt={""}
-className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c18w8xyq c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
+className={`w-image cm3shcu ca9uefi ce32buc c1xgflv3 c9fk8uj c1fuz7qx c1dm9f9e c3vadkh c8734jr cf1pzdg cb1exuz c1enfllu cs9gzdy c1twyxb c1ggpt1j c10qrqa6 c8i27jh c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 c1qfylyx c10db4nh c11qds07 c16eaown c1sk8w78`} />
 </Link>
 <div
 className={`w-element c1gtwe88 cjorn8w cbkxcvc ceujke0 c1afsvt3 c1u9qhrj c1fuejab c1pmamtn cssjns6`}>
@@ -179,7 +179,7 @@ className={`w-element cezfhvi c1cwxjj6 c1o3x2cf croeuxe caldv5i cflhtbc c145v2hb
 </div>
 </div>
 <div
-className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 c1i7tqz7 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
+className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c3710mz c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x c6namkk c13knqhs c1nubnfy c17y8j4f cnejbw2 cylzj05 csih1b0 ctpl1ee c11qds07 c1i7tqz7 chkblx2 cxxl6mw c8mt9ag c6o22im ce4iyog czylzg`}>
 </div>
 </div>
 </div>
