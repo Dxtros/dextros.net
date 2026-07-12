@@ -12,7 +12,7 @@ import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-compon
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-07-12T21:56:48.245Z";
+      export const lastPublished = "2026-07-12T22:09:39.844Z";
 
       export const siteName = "dextros.net";
 
@@ -46,13 +46,13 @@ clientOnly={true}
 className={`w-html-embed cbxc8zo`} />
 </slot>
 <header
-className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 cq132t4 c1e1eqr5 ccv4180 c1gtwe88 c1b213es c1kgmnj2 cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c15i8137 cez508d cssjns6 c17dzch8 c18o5lbq`}>
+className={`w-element c1p0nxxt c1rqxshr c5y8hx0 cx0dzkn c1dm9f9e c3vadkh c8734jr cf1pzdg cpphq8o c1pmamtn c1gityy6 c1afhbe7 c112iahb cr2eqlq c7l35c8 c1e12803 cq132t4 c1e1eqr5 ccv4180 c1gtwe88 c1b213es c1kgmnj2 cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c15i8137 cez508d cssjns6 c17dzch8 c18o5lbq`}>
 <nav
 className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k cm3shcu ca9uefi c4wv1sb c1ue3tv9 cssjns6 c198ibox ckbw53 c1rxlz40 cz5dk88`}>
 <Link
 aria-label={"go to home"}
 href={"/home2"}
-className={`w-element c1o3x2cf caldv5i c16ov6z2 c75aoup c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cwdmw0u cb2o5ig c170fxhb c10ujmo9 cjq3i40 cs1dfu3`}>
+className={`w-element c1o3x2cf caldv5i c16ov6z2 c14s6edz c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cwdmw0u cb2o5ig c170fxhb c10ujmo9 cjq3i40 cs1dfu3`}>
 {"Dextros.net"}
 </Link>
 <nav
@@ -71,7 +71,7 @@ className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh
 </nav>
 </header>
 <div
-className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 cp1eyiw czs7te c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t cb3sunb cbkxcvc c1nb70ul c198ibox cddmyif`}>
+className={`w-element cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 cp1eyiw cd727w3 c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t cb3sunb cbkxcvc c1nb70ul c198ibox cddmyif`}>
 <h1
 className={`w-element caldv5i c2slqn0 c9fk8uj c17k3sj5 clc568a c1s4elmv c10ebza8 cxmtpu8 c1612k1t c2u3646 cdv4tzb c6mvio cl95v1y c16ov6z2 c180oei2 cienr79 c4whn9i c1ww50s8 cylzj05 c3j9ogi c4zqbqv c17bpzx6 c1j25dvu ca01xcv c9tobo7 c86a6sb chkblx2 cxxl6mw c8mt9ag c18idd3b c11hdr06`}>
 <span
@@ -103,7 +103,7 @@ className={`w-element caldv5i c1gu7eo6 c2eltoq c1w3euwl c1killdp c2slqn0 c9fk8uj
 </div>
 </div>
 <div
-className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5`}>
+className={`w-element cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5`}>
 <div
 className={`w-element c1fq120s ctrx76n c16awfeh c1moi9gc caxkdu5 ce32buc c1xgflv3 c1webekv c1nb70ul colidgn ctivmsr c16fd9wg c1y1e4qt c1uj1b52 ch73ipk c1vqthi8 cm4s758 c77mn8i cz0zfsx cjatpx8 c1by97ks c14gkp7q c1rib3o6 c9rlox5`}>
 <div
@@ -184,7 +184,7 @@ className={`w-element c1syh61u ch4bzm4 c14swfj8 c107mqr1 cs9gzdy c18w8xyq c3710m
 </div>
 </div>
 <div
-className={`w-element cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 cp1eyiw cpphq8o c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t c1xz4naz cbkxcvc c1nb70ul c198ibox cddmyif`}>
+className={`w-element cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 cp1eyiw cpphq8o c1ibfla7 c1pmamtn c1gtwe88 cjorn8w c1rrn70t c1xz4naz cbkxcvc c1nb70ul c198ibox cddmyif`}>
 <div
 className={`w-element cvdod7s cs9gzdy`}>
 <h2

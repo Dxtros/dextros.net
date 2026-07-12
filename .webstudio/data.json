@@ -1,11 +1,11 @@
 {
   "bundleVersion": "bundle-u14gh7",
   "build": {
-    "id": "27c90973-a31b-4e52-84d8-1b3d7cc3c56a",
+    "id": "d5504332-ef23-4879-ae41-10d7d2b925a5",
     "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
-    "version": 6526,
-    "createdAt": "2026-07-12T21:56:48.245+00:00",
-    "updatedAt": "2026-07-12T21:56:48.245+00:00",
+    "version": 6537,
+    "createdAt": "2026-07-12T22:09:39.844+00:00",
+    "updatedAt": "2026-07-12T22:09:39.844+00:00",
     "pages": {
       "homePageId": "x8cFBMlUXKCx1g9YkGuCG",
       "rootFolderId": "root",
@@ -15616,7 +15616,7 @@
           "value": {
             "type": "unit",
             "unit": "vw",
-            "value": 5
+            "value": 10
           }
         }
       ],
@@ -15629,7 +15629,7 @@
           "value": {
             "type": "unit",
             "unit": "vw",
-            "value": 5
+            "value": 10
           }
         }
       ],
@@ -17470,7 +17470,7 @@
           "value": {
             "type": "unit",
             "unit": "vw",
-            "value": 2.5
+            "value": 5
           }
         }
       ],
@@ -19477,24 +19477,6 @@
         }
       ],
       [
-        "8fnOQkhJ5P9ZB9W7qlSiM:p8eOIktc7fhlZ0xcFxuYL:color:",
-        {
-          "styleSourceId": "8fnOQkhJ5P9ZB9W7qlSiM",
-          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
-          "property": "color",
-          "value": {
-            "type": "color",
-            "colorSpace": "hsl",
-            "components": [
-              311,
-              39,
-              42
-            ],
-            "alpha": 1
-          }
-        }
-      ],
-      [
         "8fn8cmHGUdaJxvTYm5c_U:p8eOIktc7fhlZ0xcFxuYL:cursor:",
         {
           "styleSourceId": "8fn8cmHGUdaJxvTYm5c_U",
@@ -19802,6 +19784,24 @@
                 "value": "normal"
               }
             ]
+          }
+        }
+      ],
+      [
+        "8fnOQkhJ5P9ZB9W7qlSiM:p8eOIktc7fhlZ0xcFxuYL:color:",
+        {
+          "styleSourceId": "8fnOQkhJ5P9ZB9W7qlSiM",
+          "breakpointId": "p8eOIktc7fhlZ0xcFxuYL",
+          "property": "color",
+          "value": {
+            "type": "color",
+            "colorSpace": "hsl",
+            "components": [
+              311,
+              0,
+              100
+            ],
+            "alpha": 1
           }
         }
       ]
