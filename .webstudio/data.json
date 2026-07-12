@@ -1,11 +1,11 @@
 {
   "bundleVersion": "bundle-u14gh7",
   "build": {
-    "id": "d5504332-ef23-4879-ae41-10d7d2b925a5",
+    "id": "1fc0aed6-145d-4759-8c12-bc6f8499d7a7",
     "projectId": "a31fd28d-415c-4f03-8fc1-93b07e834ea3",
-    "version": 6537,
-    "createdAt": "2026-07-12T22:09:39.844+00:00",
-    "updatedAt": "2026-07-12T22:09:39.844+00:00",
+    "version": 6543,
+    "createdAt": "2026-07-12T22:19:29.641+00:00",
+    "updatedAt": "2026-07-12T22:19:29.641+00:00",
     "pages": {
       "homePageId": "x8cFBMlUXKCx1g9YkGuCG",
       "rootFolderId": "root",
@@ -19802,6 +19802,58 @@
               100
             ],
             "alpha": 1
+          }
+        }
+      ],
+      [
+        "N7tE-DBs8H9bz2Atdj4Be:gLCzUI5P79jD1WN4LFS5F:paddingLeft:",
+        {
+          "styleSourceId": "N7tE-DBs8H9bz2Atdj4Be",
+          "breakpointId": "gLCzUI5P79jD1WN4LFS5F",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "vw",
+            "value": 5
+          }
+        }
+      ],
+      [
+        "N7tE-DBs8H9bz2Atdj4Be:gLCzUI5P79jD1WN4LFS5F:paddingRight:",
+        {
+          "styleSourceId": "N7tE-DBs8H9bz2Atdj4Be",
+          "breakpointId": "gLCzUI5P79jD1WN4LFS5F",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "vw",
+            "value": 5
+          }
+        }
+      ],
+      [
+        "N7tE-DBs8H9bz2Atdj4Be:Vmpp1WIlOdATwrho_J4oG:paddingLeft:",
+        {
+          "styleSourceId": "N7tE-DBs8H9bz2Atdj4Be",
+          "breakpointId": "Vmpp1WIlOdATwrho_J4oG",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "vw",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "N7tE-DBs8H9bz2Atdj4Be:Vmpp1WIlOdATwrho_J4oG:paddingRight:",
+        {
+          "styleSourceId": "N7tE-DBs8H9bz2Atdj4Be",
+          "breakpointId": "Vmpp1WIlOdATwrho_J4oG",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "vw",
+            "value": 1
           }
         }
       ]

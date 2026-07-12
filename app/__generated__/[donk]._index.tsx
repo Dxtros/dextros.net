@@ -12,7 +12,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-07-12T22:09:39.844Z";
+      export const lastPublished = "2026-07-12T22:19:29.641Z";
 
       export const siteName = "dextros.net";
 
@@ -36,7 +36,7 @@ className={`w-element cioxh9z`}>
 <div
 className={`w-element c1a7sqay ccv4180 cs9gzdy c18w8xyq clc568a cmvyipf cp4b12u c1rqxshr c1qn79gk ct1ghg1 c1vsvjjg czi50zz cctdctb`}>
 <div
-className={`w-element cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1m18qyo`}>
+className={`w-element cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1m18qyo c1pzxh5f cbt2bfg c3pn1jw c582o45`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 {"About "}
@@ -60,7 +60,7 @@ className={`w-element c1cwxjj6 croeuxe c1o3x2cf c14qcx2s c1i9wn5g c1byvbn7 c16c3
 <div
 className={`w-element`}>
 <header
-className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1e1eqr5 cezfhvi cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1iwjx0e csyqbup c198ibox cssjns6 cg4ay21 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
+className={`w-element c1pmamtn cez508d ccv4180 c5y8hx0 cx0dzkn cpstsr7 c1e1eqr5 cezfhvi cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1iwjx0e c1pzxh5f cbt2bfg csyqbup c198ibox cssjns6 cg4ay21 c3pn1jw c582o45 cjvbr88 c149k8gn c5cjw4p c1054tb3 c4fscnt cz5dk88`}>
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
@@ -81,7 +81,7 @@ className={`w-element c4moxvu`}>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1054tb3 c1aryxcd clk7tgs c198ibox c14wov29 clysn2f ckjy5vx`}>
+className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cxr8xrx cqoldyh cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1054tb3 c1aryxcd clk7tgs c3pn1jw c582o45 c198ibox c1pzxh5f cbt2bfg c14wov29 clysn2f ckjy5vx`}>
 <div
 className={`w-element cs9gzdy`}>
 <Image

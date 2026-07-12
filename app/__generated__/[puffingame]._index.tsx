@@ -12,7 +12,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react/compo
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-07-12T22:09:39.844Z";
+      export const lastPublished = "2026-07-12T22:19:29.641Z";
 
       export const siteName = "dextros.net";
 
@@ -34,7 +34,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react/compo
 return <Body
 className={`w-element c1twyxb c1ssvogt c2slqn0 c107mqr1 c1ck1v1r`}>
 <div
-className={`w-element c1e1eqr5 ccv4180 cs9gzdy c18w8xyq cxr8xrx cqoldyh cp4b12u c1rqxshr c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x cu60nvf cp6xexe cm8pyud c1fltko0 c1qn79gk ct1ghg1 c1i7tqz7`}>
+className={`w-element c1e1eqr5 ccv4180 cs9gzdy c18w8xyq cxr8xrx cqoldyh cp4b12u c1rqxshr c2slqn0 cx0dzkn c15i8137 cob5b3p cpup32x cu60nvf cp6xexe cm8pyud c1fltko0 c3pn1jw c582o45 c1i7tqz7 c1pzxh5f cbt2bfg`}>
 <h2
 className={`w-element cwodw59 cyxyaon cezfhvi`}>
 <span
