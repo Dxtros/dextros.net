@@ -12,7 +12,7 @@ import { Image as Image } from "@webstudio-is/sdk-components-react/components";
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T23:12:23.715Z";
+      export const lastPublished = "2026-07-12T21:56:48.245Z";
 
       export const siteName = "dextros.net";
 

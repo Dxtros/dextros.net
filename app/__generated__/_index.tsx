@@ -5,14 +5,14 @@
       import { Fragment, useState } from "react";
       import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } from "@webstudio-is/sdk-components-react/components";
+import { Heading as Heading, Paragraph as Paragraph, Box as Box, Text as Text } from "@webstudio-is/sdk-components-react/components";
 
 
       export const projectId = "a31fd28d-415c-4f03-8fc1-93b07e834ea3";
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T23:12:23.715Z";
+      export const lastPublished = "2026-07-12T21:56:48.245Z";
 
       export const siteName = "dextros.net";
 
@@ -53,128 +53,83 @@ import { Box as Box, Heading as Heading, Paragraph as Paragraph, Text as Text } 
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c16o42s9 cmuvxqv`}>
+className={`w-element c16o42s9 c16z5y6l`}>
 <Box
 data-ws-tag="div"
 className={`w-box`}>
 <Box
-className={`w-box c1gd5515 c107mqr1 c14xpwmx cwdmasm ciefe8a c1vilc11 c60vy8 c11ka3c c2z4q9g c1ssvogt ck3a6vq c1trv315 cw5xqyu c1pmamtn c6corq cyin3no cdepr1w cez508d cbn9fyj c17lbged c1yd9297 cpb83sz ce1yi6i c10yblei csnfwyd c1mjcjrb cn6nxvt c8usc85 c1722awv c1gj3fnc clyipar caiz32p c15v7qqd c1tqbmju cz59kkh c101uvd8 c7n1gk6 c42zyce cwmtqn1 c1eukmtm c16c8uil cbgu6dt c185804k`}>
+data-ws-tag="div"
+className={`w-box c1pmamtn c18znrhs cdmgm0m c7bwsg2 c1nb70ul c771430 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1h79hp4 c16p169y cyc9d48 c1w3euwl c6corq crsit91 c1udkgxc c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl c2zjgwx`}>
+<div
+className={`w-element c2zjgwx c1kcosf1 c7bwsg2 cdmgm0m cga1hnk c16do9j8 cthrreg cgrgzjg chxrxj2`}>
+<div
+className={`w-element ccol0r2`}>
+<Box
+data-ws-tag="div"
+className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 c1jmjbut c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl c1kcosf1 c39rlbe c14obgc8 c16do9j8 cga1hnk`}>
+<Heading
+data-ws-tag="h1"
+className={`w-heading cpphq8o c18fwely c1nvm1e2 cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4 cl6tn03`}>
+{"Dexter Delaski "}
+</Heading>
 <Paragraph
-className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c14hoolr c1jo75us c6vtb6j cc3nov9 c1lg835j c1uuy6wp c8ii1ro c1andk5f c1kcosf1`}>
-{"Dexter Delaski"}
+className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c19wl1mz c8ii1ro c1andk5f c1kcosf1 c1ul7zfv cwsq3rw c14fgaoh cvqb73t c172oe9u`}>
+{"Is a designer at "}
+<Link_1
+href={"https://www.instrument.com/"}
+className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 ccawtq8`}>
+{"Instrument"}
+</Link_1>
+{". Most of my work is relating to web design, branding, and game design."}
 {""}
 <br />
 {""}
 </Paragraph>
+</Box>
 <Box
-className={`w-box c1ohbjsd c7bwsg2 cm730mb c1pmamtn c1h79hp4 c16p169y c1ssvogt cez508d cbn9fyj c1fuz7qx cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cz0ihdn c1udkgxc c10yblei csnfwyd c1mjcjrb cn6nxvt c8usc85 c1722awv c1gj3fnc clyipar caiz32p c15v7qqd c1tqbmju cz59kkh c101uvd8 c1f2nj73 c1m8scem c7hkhm8 cxzdltv c12ct4za cbkqa6t chkblx2 c1rxlz40 c1dsbtse c8dhohm`}>
+data-ws-tag="div"
+className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1u94n63 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl c1kcosf1 c150mdvp c474mws c10vvfmn cka7n16 c1t10sbo`}>
+<Heading
+data-ws-tag="h1"
+className={`w-heading cpphq8o c18fwely c1nvm1e2 cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4 cl6tn03`}>
+{"About this Page..."}
+</Heading>
+<Paragraph
+className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c19wl1mz c8ii1ro c1andk5f c1kcosf1 c1ul7zfv cwsq3rw c14fgaoh cvqb73t c172oe9u`}>
+{"I am working on a website for showing my personal projects/experiments it is actively being worked on, but go ahead and take a look!"}
+{""}
+<br />
+{""}
+</Paragraph>
+</Box>
+<Box
+data-ws-tag="div"
+className={`w-box c1pmamtn c1w3euwl c17k3sj5 ct4sujx cjwfj78 c1sqm0uy c1xlne93 c1xwhhxx cbjaddb c1gtwe88 cez508d cshyuxo c1fpzyr8 ctww8k1 c1if9zue c1r1gkmc cjq3i40 cs1dfu3 cz95xv0 chew6l2 c1tyd1nd c1b5tnip c1kcosf1 czte5aw cxrwizz clk7tgs c1l48qrw c1tazp5s c1jy19jj cxorjez csyqbup ccol0r2 c1xh99jb`}>
 <Link
-className={`w-link cq8b1gm c1oze40s c1jo75us c1ms9765 c7bwsg2 cdmgm0m c6corq c8g4f0z crsit91 c1o0t0md c85x781 c58qnb7 c11nd74n c9fk8uj c2slqn0 cez508d c1jo5tbg c10mtka cqnnjlp c14hoolr ce0okz7 c1nbjqbc c88r0rg`}>
-{"Portfolio"}
+href={"/home2"}
+target={"_blank"}
+className={`w-link c1c6wxpe c5ntwqm c170q8jk cf2jlwk c16aiqev cv4etkq c1ntrdgi c1dz3htx c1rqmj2c c9fo71q c1emfp4o c85x781 c58qnb7 c11nd74n c14zfp4g c1f5qj7b c14hoolr c11ocdmw cq3ftvj c21bmbj cv14bd9 cdfepeq c6vtb6j c1ygohr2 c5f3bya c1t6plr9 ce0okz7 c1ouus61 c16g2qii cozswx7 cpxsl6m c16itj1 cdz6eqd c88r0rg c19wl1mz c14z5wli c1a36rj7`}>
+{"Construction Zone"}
 </Link>
 <Link
 href={"https://www.instagram.com/dextr.os/?__d=1%2F"}
 target={"_blank"}
-className={`w-link cq8b1gm c1oze40s c1jo75us c1ms9765 c7bwsg2 cdmgm0m c6corq c8g4f0z crsit91 c1o0t0md c85x781 c58qnb7 c11nd74n c9fk8uj c2slqn0 cez508d c1jo5tbg c10mtka cqnnjlp c14hoolr ce0okz7 c1nbjqbc c88r0rg`}>
+className={`w-link c1vnbn4w c5ntwqm c170q8jk cf2jlwk c16aiqev cv4etkq c1ntrdgi c1dz3htx c1rqmj2c c9fo71q c1emfp4o c85x781 c58qnb7 c11nd74n c14zfp4g c1f5qj7b c14hoolr c11ocdmw cq3ftvj c4rig2c c1wk0j6a c1u8a39c c6vtb6j c1t6plr9 ce0okz7 c1ouus61 c1ro4hjm c88r0rg c19wl1mz c14z5wli c1a36rj7`}>
 {"Instagram"}
 </Link>
 <Link
 href={"mailto:design@dextros.net"}
-className={`w-link cq8b1gm c1oze40s c1jo75us c1ms9765 c7bwsg2 cdmgm0m c6corq c8g4f0z crsit91 c1o0t0md c85x781 c58qnb7 c11nd74n c9fk8uj c2slqn0 cez508d c1jo5tbg c10mtka cqnnjlp c14hoolr ce0okz7 c1nbjqbc c88r0rg`}>
-{"Email"}
-</Link>
-<Box
-className={`w-box c1asi3hl c5ntwqm c1p0p853 c1wz7w08 c16w6bl5 c1kc4rp9 c2z4q9g cezfhvi cvb7juy c1yo4swh c128vwl4`}>
-<Box
-className={`w-box c9i2am4 ch0bly2 c1f0iqtt`} />
-</Box>
-</Box>
-</Box>
-<Box
-data-ws-tag="div"
-className={`w-box c1pmamtn c18znrhs cdmgm0m c7bwsg2 ca7bs4t c1nb70ul c771430 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1h79hp4 c16p169y cyc9d48 c1w3euwl c6corq crsit91 c1udkgxc c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl c2zjgwx`}>
-<Box
-data-ws-tag="div"
-className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c16q7kzm c1ig81m6 c1usqjft c1fpzyr8 c1jmjbut c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl cziclp0 c1kcosf1 c39rlbe`}>
-<Heading
-data-ws-tag="h1"
-className={`w-heading cpphq8o c18fwely c1nvm1e2 cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
-{"Hello, "}
-</Heading>
-<Paragraph
-className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c19wl1mz c8ii1ro c1andk5f c1kcosf1 c1ul7zfv`}>
-{"I'm Dexter, a Graphic Designer working on my BFA at Portland State University. Currently most of my energy goes towards web design, branding, and game design. "}
-{""}
-<br />
-{""}
-</Paragraph>
-</Box>
-<Box
-data-ws-tag="div"
-className={`w-box c1pmamtn c11jgpu4 c2eltoq c1killdp cdepr1w c1nb70ul c1xgflv3 c1gtwe88 c1jo5tbg c17k3sj5 cxmtpu8 c1612k1t c5k5yqr c1uj1b52 c10mtka cqnnjlp c16fd9wg c17syjs3 c1u94n63 c474mws c1ig81m6 c1usqjft c1fpzyr8 cdn232w c1054tb3 c4fscnt c1j9bzxn c1lthzdz c7b9lbl cziclp0 c1kcosf1 c150mdvp`}>
-<Heading
-data-ws-tag="h1"
-className={`w-heading cpphq8o c18fwely c1nvm1e2 cqvu9dj cnpuwnr crlvfkh cvwfpl3 c1pmamtn c1hmqx5n cdepr1w c771430 c1jo5tbg c17k3sj5 c2n39l7 cxmtpu8 c1612k1t c5k5yqr c10mtka cqnnjlp cyxyaon c9j41e0 c1t0fbbo c1m8scem c1j9bzxn cjq3i40 cs1dfu3 cz95xv0 c1lthzdz c7b9lbl c1x8c3g4`}>
-{"Reach out!"}
-</Heading>
-<Paragraph
-className={`w-paragraph c1k1w3lf c1w3euwl c9fk8uj c7moq2v c5e3hvd cdmgm0m c1ckzkxr c8g4f0z c1xgflv3 c1jo5tbg c1fuz7qx c2n39l7 cxmtpu8 c1612k1t c5k5yqr c1xr2s24 c1jo75us c6vtb6j cc3nov9 c19wl1mz c8ii1ro c1andk5f c1kcosf1 c1ul7zfv`}>
-{"The best part of graphic design for me is people. I enjoy working with both designers and non-designers. Send me an email with a smiley face, or your latest project. I'm always eager to chat."}
-{""}
-<br />
-{""}
-</Paragraph>
-</Box>
-<Box
-data-ws-tag="div"
-className={`w-box c1pmamtn c1w3euwl c132re45 ct4sujx cjwfj78 c1sqm0uy c1xlne93 c1xwhhxx cbjaddb cshyuxo c1fpzyr8 c1054tb3 cnk4s3i c1r1gkmc cjq3i40 cs1dfu3 cz95xv0 chew6l2 c1tyd1nd cziclp0 c1kcosf1 czte5aw cxrwizz c2tg5kv cb3zv8h`}>
-<Link
-href={"https://f005.backblazeb2.com/file/nasus-file-share/DexterDelaski_Portfolio.pdf"}
-prefetch={"render"}
-download={false}
-target={"_blank"}
-className={`w-link c1crj8n1 c170q8jk cf2jlwk cb0dmkf c16aiqev cv4etkq c1ntrdgi c1dz3htx c1rqmj2c c9fo71q c1emfp4o c85x781 c58qnb7 c11nd74n c14zfp4g c1f5qj7b c14hoolr c11ocdmw cq3ftvj c4rig2c c1wk0j6a c1u8a39c c6vtb6j c1t6plr9 ce0okz7 c1ouus61 c88r0rg`}>
-{"Portfolio"}
-</Link>
-<Link
-href={"https://www.instagram.com/dextr.os/?__d=1%2F"}
-target={"_blank"}
-className={`w-link c1vnbn4w c170q8jk cf2jlwk cb0dmkf c16aiqev cv4etkq c1ntrdgi c1dz3htx c1rqmj2c c9fo71q c1emfp4o c85x781 c58qnb7 c11nd74n c14zfp4g c1f5qj7b c14hoolr c11ocdmw cq3ftvj c4rig2c c1wk0j6a c1u8a39c c6vtb6j c1t6plr9 ce0okz7 c1ouus61 c88r0rg`}>
-{"Instagram"}
-</Link>
-<Link
-href={"mailto:design@dextros.net"}
-className={`w-link c102fxno c170q8jk cf2jlwk cb0dmkf c16aiqev cv4etkq c1ntrdgi c1dz3htx c1rqmj2c c9fo71q c1emfp4o c85x781 c58qnb7 c11nd74n c14zfp4g c1f5qj7b c14hoolr c11ocdmw cq3ftvj c4rig2c c1wk0j6a c1u8a39c c6vtb6j c1t6plr9 ce0okz7 c1ouus61 c88r0rg`}>
+className={`w-link c102fxno c5ntwqm c170q8jk cf2jlwk c16aiqev cv4etkq c1ntrdgi c1dz3htx c1rqmj2c c9fo71q c1emfp4o c85x781 c58qnb7 c11nd74n c14zfp4g c1f5qj7b c14hoolr c11ocdmw cq3ftvj c21bmbj cv14bd9 cdfepeq c6vtb6j c1ygohr2 c5f3bya c1t6plr9 ce0okz7 c1ouus61 c15gtin1 c88r0rg c19wl1mz c14z5wli c1a36rj7`}>
 {"Email"}
 </Link>
 </Box>
 <Text
 data-ws-tag="div"
-className={`w-text c1rvee0s co7ha2w cj9umz3 c10mvydg c96dz5j c9fk8uj c6corq c70ei1s c1jo5tbg cxmtpu8 ca9uefi c5k5yqr c10mtka cqnnjlp cgsnbc4 c1jo75us c1fi6vz9 c1udkgxc c1dqvhk0 cxf3ms2 c1f738tz cth9q68 c1fz3eq7 c1afc7lm c1l47t7s cmtzdtm cqgheqg ckzgi9a cn9fis c1xqu59i cylzj05 clps2xo c164cme8 cscq89m cfemil6 ctaiwp5 c1925nrm`}>
-{"Thanks for looking! This is a place holder site,  for now my portfolio is just a PDF. I am working on my real website if you want to look the link "}
-{""}
-<br />
-{""}
-{"is below."}
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-<Link_1
-href={"/home2"}
-className={`w-element c180yhoa c1i9wn5g cu7hrc c1afhbe7 c1hb38vr cr73qlp cu192y7 cnyys9z cnyzsxv c15jaqzu c1254vgp c119ehe9 c1f7flt2 cyhtcp2 c11s3ige c1jau6ft c1xhmh9u cdlsyrq c19tah9k c1wagkrj cjldm4r c6zpx33`}>
-{"Click here to enter the construction zone"}
-</Link_1>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
+className={`w-text co7ha2w cj9umz3 c10mvydg c9fk8uj c1f1c870 cdepr1w c1jo5tbg cxmtpu8 ca9uefi c5k5yqr c10mtka cqnnjlp cgsnbc4 c1jo75us c1fi6vz9 c1udkgxc c1dqvhk0 c96dz5j czte5aw c1f738tz cth9q68 c1fz3eq7 cmtzdtm cqgheqg cn9fis c1pfpmcy cylzj05 c1b824ls cscq89m c1925nrm`}>
 {"This website is running on a server in my basement."}
 </Text>
+</div>
+</div>
 </Box>
 </Box>
 </Body>

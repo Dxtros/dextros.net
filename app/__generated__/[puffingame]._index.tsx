@@ -12,7 +12,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react/compo
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T23:12:23.715Z";
+      export const lastPublished = "2026-07-12T21:56:48.245Z";
 
       export const siteName = "dextros.net";
 
@@ -57,7 +57,7 @@ className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k
 <Link
 href={"/home2"}
 aria-label={"Back to homepage"}
-className={`w-element c1o3x2cf caldv5i c16ov6z2 c1vn3fqh c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c85x781 cb2o5ig c170fxhb c10ujmo9`}>
+className={`w-element c16dkcyd caldv5i c16ov6z2 c14s6edz c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 c85x781 cb2o5ig c170fxhb c10ujmo9`}>
 {"←Dextros.net"}
 </Link>
 </div>

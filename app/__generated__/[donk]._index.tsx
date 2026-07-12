@@ -12,7 +12,7 @@ import { Image as Image, Video as Video } from "@webstudio-is/sdk-components-rea
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T23:12:23.715Z";
+      export const lastPublished = "2026-07-12T21:56:48.245Z";
 
       export const siteName = "dextros.net";
 
@@ -81,7 +81,7 @@ className={`w-element c4moxvu`}>
 </h1>
 </header>
 <div
-className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1054tb3 c1aryxcd clk7tgs c198ibox cxbkj8z c1aje6fa c1lanzf5`}>
+className={`w-element c1pmamtn c1nb70ul c12qus3y c1vwpirp cgfzktt cynrx3z c2cbc6c cu60nvf cp6xexe cm8pyud c1fltko0 c1e1eqr5 c1054tb3 c1aryxcd clk7tgs c198ibox c14wov29 clysn2f ckjy5vx`}>
 <div
 className={`w-element cs9gzdy`}>
 <Image
@@ -108,19 +108,13 @@ src={"/assets/Screenshot_2026-04-29_at_4.39.55_PM_r8FHsxwwtK4YJ2I2LTwV8.png"}
 width={3430}
 height={1924}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt chyarap cwfl9pn`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cr9x4r9 czf8olt chyarap cwfl9pn c1i24czb c14sjl3m`} />
 <Image
 src={"/assets/Screenshot_2026-04-29_at_4.42.28_PM_ahcdA7MmUmstMoKkk7FVP.png"}
 width={2652}
 height={1412}
 alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
-<Image
-src={"/assets/Screenshot_2026-04-29_at_4.43.50_PM_FOuuyfMBvI5e7IlknuFV9.png"}
-width={3184}
-height={1554}
-alt={""}
-className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn`} />
+className={`w-image c1e77v0d cntvg0t c18fwely c1udkgxc c10qrqa6 c8i27jh cxmtpu8 c1612k1t cyl4ruk c1killdp cwfl9pn c1jsqqfk c1x07ehc clahg6v c1yaspg4 cup3dha cmg3tfm c2o1781 cqdgelv`} />
 </div>
 </div>
 </div>

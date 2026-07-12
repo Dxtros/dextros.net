@@ -12,7 +12,7 @@ import { Image as Image, HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-compon
 
       export const projectDomain = "dextrosnet-4002a";
 
-      export const lastPublished = "2026-06-15T23:12:23.715Z";
+      export const lastPublished = "2026-07-12T21:56:48.245Z";
 
       export const siteName = "dextros.net";
 
@@ -52,7 +52,7 @@ className={`w-element cyl4ruk c1pmamtn cez508d c1vtegwu c170edgp colidgn cp6lb0k
 <Link
 aria-label={"go to home"}
 href={"/home2"}
-className={`w-element c1o3x2cf caldv5i c16ov6z2 c1vn3fqh c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cwdmw0u cb2o5ig c170fxhb c10ujmo9 cjq3i40 cs1dfu3`}>
+className={`w-element c1o3x2cf caldv5i c16ov6z2 c75aoup c5k6wxj cyxyaon c1afhbe7 c112iahb cr2eqlq c1r9kh15 c1e12803 cwdmw0u cb2o5ig c170fxhb c10ujmo9 cjq3i40 cs1dfu3`}>
 {"Dextros.net"}
 </Link>
 <nav
@@ -88,7 +88,7 @@ className={`w-element cb2o5ig c170fxhb c10ujmo9 c1afhbe7 c112iahb cr2eqlq c1r9kh
 <span
 className={`w-element`}>
 <b
-className={`w-element c1o42jo8 c2d8sz c2o3cq6 cmvg2j1`}>
+className={`w-element c1o42jo8 c2d8sz c2o3cq6`}>
 {"this"}
 </b>
 </span>
